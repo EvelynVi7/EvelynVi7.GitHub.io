@@ -4,12 +4,19 @@
 // See more about how to do that here:
 // https://github.com/processing/p5.js/wiki/Local-server
 
+function preload(){
+  Img=loadImage("boston.png");
+  
+}
+
 var queryResult;
 
 function setup() {
   pixelDensity(3.26);
   createCanvas(displayWidth, displayHeight);
   background(0);
+  image(Img,0,0,displayWidth,displayHeight);
+  
 query();
 }
 
@@ -26,7 +33,7 @@ function query() {
 
 // Request is completed
 function gotData(data) {
-  // console.log(data);
+  console.log(data);
   queryResult = data;
 
   // only look at current results:
