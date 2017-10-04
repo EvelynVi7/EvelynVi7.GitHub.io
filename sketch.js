@@ -2,90 +2,75 @@ function setup() {
   
 }
 
-function draw() 
-{
-  
-  createCanvas(1000, 500);
-  background(200);
-  
+function draw() {
+createCanvas(1500,800);
+background(200);
+
+  var xH = 200;
+  var xM = 600;
+
 var M = minute();
-//var M = 38;
-//text("Current minute:\n" + M, 5, 100);
+//var M = 36;
+//text("Current minute:\n" + m, 5, 100);
 var S = second();
 var H = hour();
-//var H = 13;
+//var H = 9;
+  if(H>12) {
+      H=H-12;
+    } 
  if(H<1) {
       H=12;
     } 
- if(H>12) {
-      H=H-12;
-    } 
-    
-//assign numbers to time locations
-var H2=ceil((H/2)) ;
-var H3=floor((H/2)) ;
-var M1=floor(M/10);
-var M2=ceil((M%10)/2);
-var M3=floor((M%10)/2);
-var S1=floor(S/10);
-var S2=ceil((S%10)/2);
-var S3=floor((S%10)/2);
 
-//draw clock grid blocks
-stroke(0);
+
+var b=50;
+var wy=(H-1)*width/2+M*width/120+S*width/7200;
+translate(width/2,height/2);
+
+
+
+stroke(255);
+strokeWeight(1);
 fill(255);
-strokeWeight(5);
-push();
-//rect(100,200,100,100);
-rect(200,150,100,100);
-rect(200,250,100,100);
-rect(322.5,225,5,5);
-rect(322.5,270,5,5);
-translate(250,0)
-rect(100,200,100,100);
-rect(200,150,100,100);
-rect(200,250,100,100);
-rect(322.5,225,5,5);
-rect(322.5,270,5,5);
-translate(250,0)
-rect(100,200,100,100);
-rect(200,150,100,100);
-rect(200,250,100,100);
-//rect(322.5,225,5,5);
-//rect(322.5,270,5,5);
-pop();
+triangle(-10,-100,10,-100,0,-60);
 
-//draw dices
 stroke(0);
+strokeWeight(2);
 fill(0);
-noStroke();
-
-push();
-translate(200,150);
-drawDice(H2);
-translate(0,100);
-drawDice(H3);
-pop();
-
-translate(250,0);
-push();
-translate(100,200);
-drawDice(M1);
-translate(100,-50);
-drawDice(M2);
-translate(0,100);
-drawDice(M3);
-pop();
-
-translate(250,0);
-translate(100,200);
-drawDice(S1);
-translate(100,-50);
-drawDice(S2);
-translate(0,100);
-drawDice(S3);
-
-
-  
+line(-width/2,b,width/2,b);
+line(-width/2,-b,width/2,-b);
+strokeWeight(1);
+textSize(30);
+textAlign(LEFT,TOP);
+translate(-wy,0);
+for (var i=1; i<=12; i++){
+  line(0,b,0,-b);
+  text(i,0,-b);
+  push();
+  for (var j=1; j<=6; j++){
+    line(0,b/2,0,-b/2);
+    textSize(15);
+    textAlign(LEFT,CENTER);
+    if (j===6){
+      text("0",(width/12+3),b/2);
+    } else {
+      text(j+"0",(width/12+3),b/2);
+    }
+    push();
+      for (var k=1; k<=10; k++){
+        line(0,b/4,0,-b/4);
+        translate(width/120,0);
+      }
+    pop();
+    translate(width/12,0);
+  }
+  pop();
+  translate(width/2,0);
 }
 
+resetMatrix();
+noStroke();
+fill(200);
+rect(0,0,20,height);
+rect((width-20),0,width,height);
+}
