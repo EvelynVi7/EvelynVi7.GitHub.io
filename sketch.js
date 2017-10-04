@@ -1,47 +1,86 @@
-var canvas;
-var state =0;
+// Sketch for using the darksky API
+// https://darksky.net/dev/docs
+// This sketch requires you to start a local server or run it on a server
+// See more about how to do that here:
+// https://github.com/processing/p5.js/wiki/Local-server
 
-
-
+var queryResult;
 
 function setup() {
-  // see pixeldensity in reference
   pixelDensity(3.0);
-  /*
-  this is the logical resolution for iphone 6 without the browser chrome at the top
-  adjust it for your phone accordingly
-  */
-  canvas = createCanvas(375,667); 
- 	background(50);
-  fill(255,255,241);
-  strokeWeight(5);
-  rectMode(CENTER);
+  createCanvas(displayWidth, displayHeight);
+  background(0);
+query();
 }
 
-function draw() {
-  background(50);
-  fill(250);
-  textSize(40);
-  noStroke();
-  if(state==0){
-    fill(250);
-    text("Hello State 0",10,50);  
-    ellipse(width/2,height/2,200,200);
-  }else if(state==1)
-  {
+// Run the API call
+function query() {
 
-    fill(255,0,0);
-    text("Hello State 1",10,50);  
-    rect(width/2,height/2,200,200);
+  // URL for querying
+  var url= 'https://api.darksky.net/forecast/9888832c6f7dae7e4e7e9866dfe722eb/22.5431,114.0579';
 
-  }
+  // Query the URL, set a callback
+  // 'jsonp' is needed for security
+  loadJSON(url, gotData, 'jsonp');
 }
 
-function touchEnded() {
-  if (state == 0) {
-    state = 1;
-  } else {
-    state = 0;
-  }
-}
+// Request is completed
+function gotData(data) {
+  // console.log(data);
+  queryResult = data;
 
+  // only look at current results:
+  var currentWeather = queryResult.currently;
+
+
+  
+  // a few variables for text formatting
+  var xPos = 20;  
+  var yPos = 40;
+  var yGap = 60; 
+  var textSizeLarge = 40;
+  var textSizeSmall = 14;
+
+  // List relevant items of information
+  fill(255);
+  textStyle(BOLD);
+
+  // The location is not live data, just entered manually
+  textSize(textSizeSmall);
+  text("Location",20, yPos);
+  yPos+=textSizeLarge;
+  textSize(textSizeLarge);
+  text("Shenzhen",20, yPos);
+  yPos+=yGap;
+
+  textSize(textSizeSmall);
+  text("Weather",20, yPos);
+  yPos+=textSizeLarge;
+  textSize(textSizeLarge);
+  text(currentWeather.summary,20, yPos);
+  yPos+=yGap;
+  
+  textSize(textSizeSmall);
+  text("Temperature",20, yPos);
+  yPos+=textSizeLarge;
+  textSize(textSizeLarge);
+  text(currentWeather.temperature + "º",20, yPos);
+  yPos+=yGap;
+  
+  textSize(textSizeSmall);
+  text("Precipitation",20, yPos);
+  yPos+=textSizeLarge;
+  textSize(textSizeLarge);
+  text((currentWeather.precipIntensity*100) + "%",20, yPos);
+  yPos+=yGap;
+  
+  textSize(textSizeSmall);
+  text("Humidity",20, yPos);
+  yPos+=textSizeLarge;
+  textSize(textSizeLarge);
+  text((currentWeather.humidity*100) + "%",20, yPos);
+  yPos+=yGap;
+
+
+
+}
