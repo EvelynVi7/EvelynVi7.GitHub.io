@@ -13,9 +13,9 @@ var queryResult;
 
 function setup() {
   pixelDensity(3.26);
-  createCanvas(displayWidth, displayHeight);
+  createCanvas(750, 1334);
   background(0);
-  image(Img,0,0,displayWidth,displayHeight);
+  image(Img,0,0, 750, 1334);
   
 query();
 }
