@@ -12,10 +12,10 @@ function preload(){
 var queryResult;
 
 function setup() {
-  pixelDensity(3.26);
-  createCanvas(750, 1334);
+  pixelDensity(3.0);
+  createCanvas(375, 667);
   background(0);
-  image(Img,0,0, 750, 1334);
+  image(Img,0,0, 375, 667);
   
 query();
 }
