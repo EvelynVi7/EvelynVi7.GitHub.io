@@ -116,6 +116,7 @@ function draw() {
     var textSizeSmall = 8;
 
     // List relevant items of information
+    noStroke();
     fill(255);
     textStyle(BOLD);
 
