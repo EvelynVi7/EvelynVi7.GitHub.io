@@ -1,0 +1,1602 @@
+NAICS.id,ASECBO.id,NAICS.display-label,ASECBO.display-label,OWNRAGE.id,OWNRAGE.display-label,OWNPDEMP
+2012 NAICS code,"Gender, ethnicity, race, and veteran status code",Meaning of 2012 NAICS code,"Meaning of Gender, ethnicity, race, and veteran status code",Owner's age code,Meaning of Owner's age code,Number of owners of respondent firms with paid employees 
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,DZ,Under 25,69
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,EA,25 to 34,476
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,EB,35 to 44,1388
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,EC,45 to 54,2076
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,ED,55 to 64,2716
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,EE,65 or over,1738
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,EF,Total reporting,8463
+11(650),1,"Agriculture, forestry, fishing and hunting",Female,EG,Item not reported,48
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,DZ,Under 25,88
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,EA,25 to 34,1399
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,EB,35 to 44,2837
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,EC,45 to 54,4298
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,ED,55 to 64,6417
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,EE,65 or over,4814
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,EF,Total reporting,19853
+11(650),2,"Agriculture, forestry, fishing and hunting",Male,EG,Item not reported,0
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,DZ,Under 25,41
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,EA,25 to 34,118
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,EB,35 to 44,279
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,EC,45 to 54,190
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,ED,55 to 64,427
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,EE,65 or over,216
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,EF,Total reporting,1271
+11(650),20,"Agriculture, forestry, fishing and hunting",Hispanic,EG,Item not reported,0
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,DZ,Under 25,116
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,EA,25 to 34,1757
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,EB,35 to 44,3947
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,EC,45 to 54,6185
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,ED,55 to 64,8706
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,EE,65 or over,6335
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,EF,Total reporting,27046
+11(650),29,"Agriculture, forestry, fishing and hunting",Non-Hispanic,EG,Item not reported,48
+11(650),30,"Agriculture, forestry, fishing and hunting",White,DZ,Under 25,133
+11(650),30,"Agriculture, forestry, fishing and hunting",White,EA,25 to 34,1806
+11(650),30,"Agriculture, forestry, fishing and hunting",White,EB,35 to 44,4137
+11(650),30,"Agriculture, forestry, fishing and hunting",White,EC,45 to 54,6163
+11(650),30,"Agriculture, forestry, fishing and hunting",White,ED,55 to 64,8831
+11(650),30,"Agriculture, forestry, fishing and hunting",White,EE,65 or over,6343
+11(650),30,"Agriculture, forestry, fishing and hunting",White,EF,Total reporting,27412
+11(650),30,"Agriculture, forestry, fishing and hunting",White,EG,Item not reported,48
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,DZ,Under 25,0
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,EA,25 to 34,0
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,EB,35 to 44,0
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,EC,45 to 54,32
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,ED,55 to 64,43
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,EE,65 or over,79
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,EF,Total reporting,154
+11(650),40,"Agriculture, forestry, fishing and hunting",Black or African American,EG,Item not reported,0
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,DZ,Under 25,0
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,EA,25 to 34,41
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,EB,35 to 44,44
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,EC,45 to 54,77
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,ED,55 to 64,45
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,EE,65 or over,32
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,EF,Total reporting,240
+11(650),50,"Agriculture, forestry, fishing and hunting",American Indian and Alaska Native,EG,Item not reported,0
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,DZ,Under 25,0
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,EA,25 to 34,21
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,EB,35 to 44,19
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,EC,45 to 54,117
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,ED,55 to 64,84
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,EE,65 or over,29
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,EF,Total reporting,271
+11(650),60,"Agriculture, forestry, fishing and hunting",Asian,EG,Item not reported,0
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,EA,25 to 34,0
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,EC,45 to 54,1
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,ED,55 to 64,0
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,EE,65 or over,0
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,EF,Total reporting,1
+11(650),70,"Agriculture, forestry, fishing and hunting",Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,DZ,Under 25,24
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,EA,25 to 34,68
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,EB,35 to 44,70
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,EC,45 to 54,34
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,ED,55 to 64,147
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,EE,65 or over,99
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,EF,Total reporting,442
+11(650),80,"Agriculture, forestry, fishing and hunting",Some other race,EG,Item not reported,0
+21,1,"Mining, quarrying, and oil and gas extraction",Female,DZ,Under 25,53
+21,1,"Mining, quarrying, and oil and gas extraction",Female,EA,25 to 34,364
+21,1,"Mining, quarrying, and oil and gas extraction",Female,EB,35 to 44,726
+21,1,"Mining, quarrying, and oil and gas extraction",Female,EC,45 to 54,1384
+21,1,"Mining, quarrying, and oil and gas extraction",Female,ED,55 to 64,2203
+21,1,"Mining, quarrying, and oil and gas extraction",Female,EE,65 or over,1777
+21,1,"Mining, quarrying, and oil and gas extraction",Female,EF,Total reporting,6507
+21,1,"Mining, quarrying, and oil and gas extraction",Female,EG,Item not reported,0
+21,2,"Mining, quarrying, and oil and gas extraction",Male,DZ,Under 25,53
+21,2,"Mining, quarrying, and oil and gas extraction",Male,EA,25 to 34,1503
+21,2,"Mining, quarrying, and oil and gas extraction",Male,EB,35 to 44,2331
+21,2,"Mining, quarrying, and oil and gas extraction",Male,EC,45 to 54,3640
+21,2,"Mining, quarrying, and oil and gas extraction",Male,ED,55 to 64,6596
+21,2,"Mining, quarrying, and oil and gas extraction",Male,EE,65 or over,5421
+21,2,"Mining, quarrying, and oil and gas extraction",Male,EF,Total reporting,19544
+21,2,"Mining, quarrying, and oil and gas extraction",Male,EG,Item not reported,0
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,DZ,Under 25,0
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,EA,25 to 34,159
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,EB,35 to 44,165
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,EC,45 to 54,300
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,ED,55 to 64,206
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,EE,65 or over,69
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,EF,Total reporting,899
+21,20,"Mining, quarrying, and oil and gas extraction",Hispanic,EG,Item not reported,0
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,DZ,Under 25,106
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,EA,25 to 34,1708
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,EB,35 to 44,2892
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,EC,45 to 54,4725
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,ED,55 to 64,8593
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,EE,65 or over,7128
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,EF,Total reporting,25152
+21,29,"Mining, quarrying, and oil and gas extraction",Non-Hispanic,EG,Item not reported,0
+21,30,"Mining, quarrying, and oil and gas extraction",White,DZ,Under 25,106
+21,30,"Mining, quarrying, and oil and gas extraction",White,EA,25 to 34,1843
+21,30,"Mining, quarrying, and oil and gas extraction",White,EB,35 to 44,2952
+21,30,"Mining, quarrying, and oil and gas extraction",White,EC,45 to 54,4829
+21,30,"Mining, quarrying, and oil and gas extraction",White,ED,55 to 64,8696
+21,30,"Mining, quarrying, and oil and gas extraction",White,EE,65 or over,7112
+21,30,"Mining, quarrying, and oil and gas extraction",White,EF,Total reporting,25538
+21,30,"Mining, quarrying, and oil and gas extraction",White,EG,Item not reported,0
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,DZ,Under 25,0
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,EA,25 to 34,0
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,EB,35 to 44,0
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,EC,45 to 54,1
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,ED,55 to 64,0
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,EE,65 or over,17
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,EF,Total reporting,18
+21,40,"Mining, quarrying, and oil and gas extraction",Black or African American,EG,Item not reported,0
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,DZ,Under 25,0
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,EA,25 to 34,0
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,EB,35 to 44,26
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,EC,45 to 54,82
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,ED,55 to 64,69
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,EE,65 or over,99
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,EF,Total reporting,276
+21,50,"Mining, quarrying, and oil and gas extraction",American Indian and Alaska Native,EG,Item not reported,0
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,DZ,Under 25,0
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,EA,25 to 34,0
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,EB,35 to 44,75
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,EC,45 to 54,68
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,ED,55 to 64,18
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,EE,65 or over,32
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,EF,Total reporting,193
+21,60,"Mining, quarrying, and oil and gas extraction",Asian,EG,Item not reported,0
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,EA,25 to 34,0
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,EC,45 to 54,0
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,ED,55 to 64,0
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,EE,65 or over,1
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,EF,Total reporting,1
+21,70,"Mining, quarrying, and oil and gas extraction",Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,DZ,Under 25,0
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,EA,25 to 34,27
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,EB,35 to 44,34
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,EC,45 to 54,62
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,ED,55 to 64,48
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,EE,65 or over,1
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,EF,Total reporting,172
+21,80,"Mining, quarrying, and oil and gas extraction",Some other race,EG,Item not reported,0
+22,1,Utilities,Female,DZ,Under 25,0
+22,1,Utilities,Female,EA,25 to 34,32
+22,1,Utilities,Female,EB,35 to 44,100
+22,1,Utilities,Female,EC,45 to 54,109
+22,1,Utilities,Female,ED,55 to 64,236
+22,1,Utilities,Female,EE,65 or over,179
+22,1,Utilities,Female,EF,Total reporting,657
+22,1,Utilities,Female,EG,Item not reported,0
+22,2,Utilities,Male,DZ,Under 25,0
+22,2,Utilities,Male,EA,25 to 34,19
+22,2,Utilities,Male,EB,35 to 44,170
+22,2,Utilities,Male,EC,45 to 54,457
+22,2,Utilities,Male,ED,55 to 64,540
+22,2,Utilities,Male,EE,65 or over,505
+22,2,Utilities,Male,EF,Total reporting,1692
+22,2,Utilities,Male,EG,Item not reported,95
+22,20,Utilities,Hispanic,DZ,Under 25,0
+22,20,Utilities,Hispanic,EA,25 to 34,0
+22,20,Utilities,Hispanic,EB,35 to 44,0
+22,20,Utilities,Hispanic,EC,45 to 54,104
+22,20,Utilities,Hispanic,ED,55 to 64,1
+22,20,Utilities,Hispanic,EE,65 or over,0
+22,20,Utilities,Hispanic,EF,Total reporting,105
+22,20,Utilities,Hispanic,EG,Item not reported,0
+22,29,Utilities,Non-Hispanic,DZ,Under 25,0
+22,29,Utilities,Non-Hispanic,EA,25 to 34,51
+22,29,Utilities,Non-Hispanic,EB,35 to 44,270
+22,29,Utilities,Non-Hispanic,EC,45 to 54,462
+22,29,Utilities,Non-Hispanic,ED,55 to 64,776
+22,29,Utilities,Non-Hispanic,EE,65 or over,685
+22,29,Utilities,Non-Hispanic,EF,Total reporting,2243
+22,29,Utilities,Non-Hispanic,EG,Item not reported,95
+22,30,Utilities,White,DZ,Under 25,0
+22,30,Utilities,White,EA,25 to 34,49
+22,30,Utilities,White,EB,35 to 44,253
+22,30,Utilities,White,EC,45 to 54,502
+22,30,Utilities,White,ED,55 to 64,776
+22,30,Utilities,White,EE,65 or over,657
+22,30,Utilities,White,EF,Total reporting,2236
+22,30,Utilities,White,EG,Item not reported,95
+22,40,Utilities,Black or African American,DZ,Under 25,0
+22,40,Utilities,Black or African American,EA,25 to 34,0
+22,40,Utilities,Black or African American,EB,35 to 44,0
+22,40,Utilities,Black or African American,EC,45 to 54,0
+22,40,Utilities,Black or African American,ED,55 to 64,0
+22,40,Utilities,Black or African American,EE,65 or over,0
+22,40,Utilities,Black or African American,EF,Total reporting,0
+22,40,Utilities,Black or African American,EG,Item not reported,0
+22,50,Utilities,American Indian and Alaska Native,DZ,Under 25,0
+22,50,Utilities,American Indian and Alaska Native,EA,25 to 34,0
+22,50,Utilities,American Indian and Alaska Native,EB,35 to 44,0
+22,50,Utilities,American Indian and Alaska Native,EC,45 to 54,21
+22,50,Utilities,American Indian and Alaska Native,ED,55 to 64,0
+22,50,Utilities,American Indian and Alaska Native,EE,65 or over,0
+22,50,Utilities,American Indian and Alaska Native,EF,Total reporting,21
+22,50,Utilities,American Indian and Alaska Native,EG,Item not reported,0
+22,60,Utilities,Asian,DZ,Under 25,0
+22,60,Utilities,Asian,EA,25 to 34,2
+22,60,Utilities,Asian,EB,35 to 44,17
+22,60,Utilities,Asian,EC,45 to 54,29
+22,60,Utilities,Asian,ED,55 to 64,1
+22,60,Utilities,Asian,EE,65 or over,28
+22,60,Utilities,Asian,EF,Total reporting,77
+22,60,Utilities,Asian,EG,Item not reported,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,EA,25 to 34,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,EC,45 to 54,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,ED,55 to 64,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,EE,65 or over,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,EF,Total reporting,0
+22,70,Utilities,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+22,80,Utilities,Some other race,DZ,Under 25,0
+22,80,Utilities,Some other race,EA,25 to 34,0
+22,80,Utilities,Some other race,EB,35 to 44,0
+22,80,Utilities,Some other race,EC,45 to 54,14
+22,80,Utilities,Some other race,ED,55 to 64,0
+22,80,Utilities,Some other race,EE,65 or over,0
+22,80,Utilities,Some other race,EF,Total reporting,14
+22,80,Utilities,Some other race,EG,Item not reported,0
+23,1,Construction,Female,DZ,Under 25,650
+23,1,Construction,Female,EA,25 to 34,6840
+23,1,Construction,Female,EB,35 to 44,22084
+23,1,Construction,Female,EC,45 to 54,40812
+23,1,Construction,Female,ED,55 to 64,42716
+23,1,Construction,Female,EE,65 or over,19518
+23,1,Construction,Female,EF,Total reporting,132620
+23,1,Construction,Female,EG,Item not reported,403
+23,2,Construction,Male,DZ,Under 25,1992
+23,2,Construction,Male,EA,25 to 34,28938
+23,2,Construction,Male,EB,35 to 44,91567
+23,2,Construction,Male,EC,45 to 54,154106
+23,2,Construction,Male,ED,55 to 64,166317
+23,2,Construction,Male,EE,65 or over,71324
+23,2,Construction,Male,EF,Total reporting,514244
+23,2,Construction,Male,EG,Item not reported,646
+23,20,Construction,Hispanic,DZ,Under 25,434
+23,20,Construction,Hispanic,EA,25 to 34,3861
+23,20,Construction,Hispanic,EB,35 to 44,10660
+23,20,Construction,Hispanic,EC,45 to 54,13742
+23,20,Construction,Hispanic,ED,55 to 64,8034
+23,20,Construction,Hispanic,EE,65 or over,2967
+23,20,Construction,Hispanic,EF,Total reporting,39698
+23,20,Construction,Hispanic,EG,Item not reported,0
+23,29,Construction,Non-Hispanic,DZ,Under 25,2208
+23,29,Construction,Non-Hispanic,EA,25 to 34,31917
+23,29,Construction,Non-Hispanic,EB,35 to 44,102991
+23,29,Construction,Non-Hispanic,EC,45 to 54,181177
+23,29,Construction,Non-Hispanic,ED,55 to 64,200998
+23,29,Construction,Non-Hispanic,EE,65 or over,87875
+23,29,Construction,Non-Hispanic,EF,Total reporting,607166
+23,29,Construction,Non-Hispanic,EG,Item not reported,1048
+23,30,Construction,White,DZ,Under 25,2395
+23,30,Construction,White,EA,25 to 34,33869
+23,30,Construction,White,EB,35 to 44,107377
+23,30,Construction,White,EC,45 to 54,185981
+23,30,Construction,White,ED,55 to 64,201488
+23,30,Construction,White,EE,65 or over,88268
+23,30,Construction,White,EF,Total reporting,619378
+23,30,Construction,White,EG,Item not reported,1014
+23,40,Construction,Black or African American,DZ,Under 25,86
+23,40,Construction,Black or African American,EA,25 to 34,183
+23,40,Construction,Black or African American,EB,35 to 44,1149
+23,40,Construction,Black or African American,EC,45 to 54,1428
+23,40,Construction,Black or African American,ED,55 to 64,1800
+23,40,Construction,Black or African American,EE,65 or over,894
+23,40,Construction,Black or African American,EF,Total reporting,5540
+23,40,Construction,Black or African American,EG,Item not reported,35
+23,50,Construction,American Indian and Alaska Native,DZ,Under 25,8
+23,50,Construction,American Indian and Alaska Native,EA,25 to 34,432
+23,50,Construction,American Indian and Alaska Native,EB,35 to 44,1028
+23,50,Construction,American Indian and Alaska Native,EC,45 to 54,1643
+23,50,Construction,American Indian and Alaska Native,ED,55 to 64,1657
+23,50,Construction,American Indian and Alaska Native,EE,65 or over,751
+23,50,Construction,American Indian and Alaska Native,EF,Total reporting,5519
+23,50,Construction,American Indian and Alaska Native,EG,Item not reported,0
+23,60,Construction,Asian,DZ,Under 25,65
+23,60,Construction,Asian,EA,25 to 34,695
+23,60,Construction,Asian,EB,35 to 44,1893
+23,60,Construction,Asian,EC,45 to 54,4245
+23,60,Construction,Asian,ED,55 to 64,3465
+23,60,Construction,Asian,EE,65 or over,1103
+23,60,Construction,Asian,EF,Total reporting,11466
+23,60,Construction,Asian,EG,Item not reported,0
+23,70,Construction,Native Hawaiian and Other Pacific Islander,DZ,Under 25,48
+23,70,Construction,Native Hawaiian and Other Pacific Islander,EA,25 to 34,119
+23,70,Construction,Native Hawaiian and Other Pacific Islander,EB,35 to 44,244
+23,70,Construction,Native Hawaiian and Other Pacific Islander,EC,45 to 54,384
+23,70,Construction,Native Hawaiian and Other Pacific Islander,ED,55 to 64,87
+23,70,Construction,Native Hawaiian and Other Pacific Islander,EE,65 or over,58
+23,70,Construction,Native Hawaiian and Other Pacific Islander,EF,Total reporting,940
+23,70,Construction,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+23,80,Construction,Some other race,DZ,Under 25,155
+23,80,Construction,Some other race,EA,25 to 34,1243
+23,80,Construction,Some other race,EB,35 to 44,3271
+23,80,Construction,Some other race,EC,45 to 54,3634
+23,80,Construction,Some other race,ED,55 to 64,2014
+23,80,Construction,Some other race,EE,65 or over,545
+23,80,Construction,Some other race,EF,Total reporting,10862
+23,80,Construction,Some other race,EG,Item not reported,0
+31-33,1,Manufacturing,Female,DZ,Under 25,822
+31-33,1,Manufacturing,Female,EA,25 to 34,2698
+31-33,1,Manufacturing,Female,EB,35 to 44,7573
+31-33,1,Manufacturing,Female,EC,45 to 54,20224
+31-33,1,Manufacturing,Female,ED,55 to 64,25047
+31-33,1,Manufacturing,Female,EE,65 or over,17689
+31-33,1,Manufacturing,Female,EF,Total reporting,74054
+31-33,1,Manufacturing,Female,EG,Item not reported,289
+31-33,2,Manufacturing,Male,DZ,Under 25,935
+31-33,2,Manufacturing,Male,EA,25 to 34,8282
+31-33,2,Manufacturing,Male,EB,35 to 44,23808
+31-33,2,Manufacturing,Male,EC,45 to 54,57747
+31-33,2,Manufacturing,Male,ED,55 to 64,69606
+31-33,2,Manufacturing,Male,EE,65 or over,52749
+31-33,2,Manufacturing,Male,EF,Total reporting,213128
+31-33,2,Manufacturing,Male,EG,Item not reported,523
+31-33,20,Manufacturing,Hispanic,DZ,Under 25,129
+31-33,20,Manufacturing,Hispanic,EA,25 to 34,637
+31-33,20,Manufacturing,Hispanic,EB,35 to 44,2369
+31-33,20,Manufacturing,Hispanic,EC,45 to 54,4768
+31-33,20,Manufacturing,Hispanic,ED,55 to 64,3476
+31-33,20,Manufacturing,Hispanic,EE,65 or over,1952
+31-33,20,Manufacturing,Hispanic,EF,Total reporting,13331
+31-33,20,Manufacturing,Hispanic,EG,Item not reported,66
+31-33,29,Manufacturing,Non-Hispanic,DZ,Under 25,1629
+31-33,29,Manufacturing,Non-Hispanic,EA,25 to 34,10343
+31-33,29,Manufacturing,Non-Hispanic,EB,35 to 44,29013
+31-33,29,Manufacturing,Non-Hispanic,EC,45 to 54,73203
+31-33,29,Manufacturing,Non-Hispanic,ED,55 to 64,91177
+31-33,29,Manufacturing,Non-Hispanic,EE,65 or over,68487
+31-33,29,Manufacturing,Non-Hispanic,EF,Total reporting,273851
+31-33,29,Manufacturing,Non-Hispanic,EG,Item not reported,746
+31-33,30,Manufacturing,White,DZ,Under 25,1499
+31-33,30,Manufacturing,White,EA,25 to 34,10152
+31-33,30,Manufacturing,White,EB,35 to 44,28859
+31-33,30,Manufacturing,White,EC,45 to 54,72607
+31-33,30,Manufacturing,White,ED,55 to 64,89277
+31-33,30,Manufacturing,White,EE,65 or over,67711
+31-33,30,Manufacturing,White,EF,Total reporting,270105
+31-33,30,Manufacturing,White,EG,Item not reported,764
+31-33,40,Manufacturing,Black or African American,DZ,Under 25,17
+31-33,40,Manufacturing,Black or African American,EA,25 to 34,78
+31-33,40,Manufacturing,Black or African American,EB,35 to 44,178
+31-33,40,Manufacturing,Black or African American,EC,45 to 54,409
+31-33,40,Manufacturing,Black or African American,ED,55 to 64,421
+31-33,40,Manufacturing,Black or African American,EE,65 or over,372
+31-33,40,Manufacturing,Black or African American,EF,Total reporting,1475
+31-33,40,Manufacturing,Black or African American,EG,Item not reported,0
+31-33,50,Manufacturing,American Indian and Alaska Native,DZ,Under 25,31
+31-33,50,Manufacturing,American Indian and Alaska Native,EA,25 to 34,40
+31-33,50,Manufacturing,American Indian and Alaska Native,EB,35 to 44,185
+31-33,50,Manufacturing,American Indian and Alaska Native,EC,45 to 54,484
+31-33,50,Manufacturing,American Indian and Alaska Native,ED,55 to 64,512
+31-33,50,Manufacturing,American Indian and Alaska Native,EE,65 or over,369
+31-33,50,Manufacturing,American Indian and Alaska Native,EF,Total reporting,1621
+31-33,50,Manufacturing,American Indian and Alaska Native,EG,Item not reported,0
+31-33,60,Manufacturing,Asian,DZ,Under 25,170
+31-33,60,Manufacturing,Asian,EA,25 to 34,653
+31-33,60,Manufacturing,Asian,EB,35 to 44,1825
+31-33,60,Manufacturing,Asian,EC,45 to 54,3387
+31-33,60,Manufacturing,Asian,ED,55 to 64,3898
+31-33,60,Manufacturing,Asian,EE,65 or over,1953
+31-33,60,Manufacturing,Asian,EF,Total reporting,11886
+31-33,60,Manufacturing,Asian,EG,Item not reported,24
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,EA,25 to 34,97
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,EB,35 to 44,45
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,EC,45 to 54,102
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,ED,55 to 64,58
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,EE,65 or over,57
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,EF,Total reporting,359
+31-33,70,Manufacturing,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+31-33,80,Manufacturing,Some other race,DZ,Under 25,61
+31-33,80,Manufacturing,Some other race,EA,25 to 34,184
+31-33,80,Manufacturing,Some other race,EB,35 to 44,678
+31-33,80,Manufacturing,Some other race,EC,45 to 54,1554
+31-33,80,Manufacturing,Some other race,ED,55 to 64,1182
+31-33,80,Manufacturing,Some other race,EE,65 or over,264
+31-33,80,Manufacturing,Some other race,EF,Total reporting,3923
+31-33,80,Manufacturing,Some other race,EG,Item not reported,24
+42,1,Wholesale trade,Female,DZ,Under 25,197
+42,1,Wholesale trade,Female,EA,25 to 34,3333
+42,1,Wholesale trade,Female,EB,35 to 44,9478
+42,1,Wholesale trade,Female,EC,45 to 54,22181
+42,1,Wholesale trade,Female,ED,55 to 64,26995
+42,1,Wholesale trade,Female,EE,65 or over,19041
+42,1,Wholesale trade,Female,EF,Total reporting,81225
+42,1,Wholesale trade,Female,EG,Item not reported,167
+42,2,Wholesale trade,Male,DZ,Under 25,833
+42,2,Wholesale trade,Male,EA,25 to 34,8791
+42,2,Wholesale trade,Male,EB,35 to 44,29308
+42,2,Wholesale trade,Male,EC,45 to 54,66013
+42,2,Wholesale trade,Male,ED,55 to 64,83015
+42,2,Wholesale trade,Male,EE,65 or over,58272
+42,2,Wholesale trade,Male,EF,Total reporting,246233
+42,2,Wholesale trade,Male,EG,Item not reported,580
+42,20,Wholesale trade,Hispanic,DZ,Under 25,180
+42,20,Wholesale trade,Hispanic,EA,25 to 34,869
+42,20,Wholesale trade,Hispanic,EB,35 to 44,3197
+42,20,Wholesale trade,Hispanic,EC,45 to 54,5559
+42,20,Wholesale trade,Hispanic,ED,55 to 64,4543
+42,20,Wholesale trade,Hispanic,EE,65 or over,2308
+42,20,Wholesale trade,Hispanic,EF,Total reporting,16656
+42,20,Wholesale trade,Hispanic,EG,Item not reported,79
+42,29,Wholesale trade,Non-Hispanic,DZ,Under 25,850
+42,29,Wholesale trade,Non-Hispanic,EA,25 to 34,11255
+42,29,Wholesale trade,Non-Hispanic,EB,35 to 44,35589
+42,29,Wholesale trade,Non-Hispanic,EC,45 to 54,82635
+42,29,Wholesale trade,Non-Hispanic,ED,55 to 64,105467
+42,29,Wholesale trade,Non-Hispanic,EE,65 or over,75005
+42,29,Wholesale trade,Non-Hispanic,EF,Total reporting,310801
+42,29,Wholesale trade,Non-Hispanic,EG,Item not reported,667
+42,30,Wholesale trade,White,DZ,Under 25,884
+42,30,Wholesale trade,White,EA,25 to 34,9637
+42,30,Wholesale trade,White,EB,35 to 44,31037
+42,30,Wholesale trade,White,EC,45 to 54,76404
+42,30,Wholesale trade,White,ED,55 to 64,96851
+42,30,Wholesale trade,White,EE,65 or over,71598
+42,30,Wholesale trade,White,EF,Total reporting,286410
+42,30,Wholesale trade,White,EG,Item not reported,495
+42,40,Wholesale trade,Black or African American,DZ,Under 25,48
+42,40,Wholesale trade,Black or African American,EA,25 to 34,18
+42,40,Wholesale trade,Black or African American,EB,35 to 44,249
+42,40,Wholesale trade,Black or African American,EC,45 to 54,660
+42,40,Wholesale trade,Black or African American,ED,55 to 64,749
+42,40,Wholesale trade,Black or African American,EE,65 or over,390
+42,40,Wholesale trade,Black or African American,EF,Total reporting,2114
+42,40,Wholesale trade,Black or African American,EG,Item not reported,0
+42,50,Wholesale trade,American Indian and Alaska Native,DZ,Under 25,1
+42,50,Wholesale trade,American Indian and Alaska Native,EA,25 to 34,4
+42,50,Wholesale trade,American Indian and Alaska Native,EB,35 to 44,160
+42,50,Wholesale trade,American Indian and Alaska Native,EC,45 to 54,345
+42,50,Wholesale trade,American Indian and Alaska Native,ED,55 to 64,288
+42,50,Wholesale trade,American Indian and Alaska Native,EE,65 or over,214
+42,50,Wholesale trade,American Indian and Alaska Native,EF,Total reporting,1013
+42,50,Wholesale trade,American Indian and Alaska Native,EG,Item not reported,0
+42,60,Wholesale trade,Asian,DZ,Under 25,97
+42,60,Wholesale trade,Asian,EA,25 to 34,2328
+42,60,Wholesale trade,Asian,EB,35 to 44,6966
+42,60,Wholesale trade,Asian,EC,45 to 54,10276
+42,60,Wholesale trade,Asian,ED,55 to 64,11776
+42,60,Wholesale trade,Asian,EE,65 or over,5188
+42,60,Wholesale trade,Asian,EF,Total reporting,36631
+42,60,Wholesale trade,Asian,EG,Item not reported,251
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,DZ,Under 25,17
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,EA,25 to 34,55
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,EC,45 to 54,82
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,ED,55 to 64,32
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,EE,65 or over,107
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,EF,Total reporting,293
+42,70,Wholesale trade,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+42,80,Wholesale trade,Some other race,DZ,Under 25,0
+42,80,Wholesale trade,Some other race,EA,25 to 34,114
+42,80,Wholesale trade,Some other race,EB,35 to 44,593
+42,80,Wholesale trade,Some other race,EC,45 to 54,1037
+42,80,Wholesale trade,Some other race,ED,55 to 64,847
+42,80,Wholesale trade,Some other race,EE,65 or over,155
+42,80,Wholesale trade,Some other race,EF,Total reporting,2745
+42,80,Wholesale trade,Some other race,EG,Item not reported,0
+44-45,1,Retail trade,Female,DZ,Under 25,628
+44-45,1,Retail trade,Female,EA,25 to 34,11355
+44-45,1,Retail trade,Female,EB,35 to 44,32046
+44-45,1,Retail trade,Female,EC,45 to 54,58194
+44-45,1,Retail trade,Female,ED,55 to 64,67041
+44-45,1,Retail trade,Female,EE,65 or over,43149
+44-45,1,Retail trade,Female,EF,Total reporting,212414
+44-45,1,Retail trade,Female,EG,Item not reported,347
+44-45,2,Retail trade,Male,DZ,Under 25,1863
+44-45,2,Retail trade,Male,EA,25 to 34,27486
+44-45,2,Retail trade,Male,EB,35 to 44,70544
+44-45,2,Retail trade,Male,EC,45 to 54,116879
+44-45,2,Retail trade,Male,ED,55 to 64,133544
+44-45,2,Retail trade,Male,EE,65 or over,86142
+44-45,2,Retail trade,Male,EF,Total reporting,436458
+44-45,2,Retail trade,Male,EG,Item not reported,995
+44-45,20,Retail trade,Hispanic,DZ,Under 25,296
+44-45,20,Retail trade,Hispanic,EA,25 to 34,2493
+44-45,20,Retail trade,Hispanic,EB,35 to 44,6811
+44-45,20,Retail trade,Hispanic,EC,45 to 54,9831
+44-45,20,Retail trade,Hispanic,ED,55 to 64,6883
+44-45,20,Retail trade,Hispanic,EE,65 or over,3472
+44-45,20,Retail trade,Hispanic,EF,Total reporting,29786
+44-45,20,Retail trade,Hispanic,EG,Item not reported,9
+44-45,29,Retail trade,Non-Hispanic,DZ,Under 25,2195
+44-45,29,Retail trade,Non-Hispanic,EA,25 to 34,36348
+44-45,29,Retail trade,Non-Hispanic,EB,35 to 44,95779
+44-45,29,Retail trade,Non-Hispanic,EC,45 to 54,165243
+44-45,29,Retail trade,Non-Hispanic,ED,55 to 64,193702
+44-45,29,Retail trade,Non-Hispanic,EE,65 or over,125820
+44-45,29,Retail trade,Non-Hispanic,EF,Total reporting,619086
+44-45,29,Retail trade,Non-Hispanic,EG,Item not reported,1333
+44-45,30,Retail trade,White,DZ,Under 25,1961
+44-45,30,Retail trade,White,EA,25 to 34,28674
+44-45,30,Retail trade,White,EB,35 to 44,78121
+44-45,30,Retail trade,White,EC,45 to 54,141554
+44-45,30,Retail trade,White,ED,55 to 64,174014
+44-45,30,Retail trade,White,EE,65 or over,121158
+44-45,30,Retail trade,White,EF,Total reporting,545481
+44-45,30,Retail trade,White,EG,Item not reported,1046
+44-45,40,Retail trade,Black or African American,DZ,Under 25,25
+44-45,40,Retail trade,Black or African American,EA,25 to 34,482
+44-45,40,Retail trade,Black or African American,EB,35 to 44,1322
+44-45,40,Retail trade,Black or African American,EC,45 to 54,1998
+44-45,40,Retail trade,Black or African American,ED,55 to 64,1572
+44-45,40,Retail trade,Black or African American,EE,65 or over,875
+44-45,40,Retail trade,Black or African American,EF,Total reporting,6273
+44-45,40,Retail trade,Black or African American,EG,Item not reported,35
+44-45,50,Retail trade,American Indian and Alaska Native,DZ,Under 25,8
+44-45,50,Retail trade,American Indian and Alaska Native,EA,25 to 34,310
+44-45,50,Retail trade,American Indian and Alaska Native,EB,35 to 44,417
+44-45,50,Retail trade,American Indian and Alaska Native,EC,45 to 54,851
+44-45,50,Retail trade,American Indian and Alaska Native,ED,55 to 64,985
+44-45,50,Retail trade,American Indian and Alaska Native,EE,65 or over,577
+44-45,50,Retail trade,American Indian and Alaska Native,EF,Total reporting,3149
+44-45,50,Retail trade,American Indian and Alaska Native,EG,Item not reported,0
+44-45,60,Retail trade,Asian,DZ,Under 25,419
+44-45,60,Retail trade,Asian,EA,25 to 34,8901
+44-45,60,Retail trade,Asian,EB,35 to 44,21497
+44-45,60,Retail trade,Asian,EC,45 to 54,28414
+44-45,60,Retail trade,Asian,ED,55 to 64,23235
+44-45,60,Retail trade,Asian,EE,65 or over,6468
+44-45,60,Retail trade,Asian,EF,Total reporting,88935
+44-45,60,Retail trade,Asian,EG,Item not reported,261
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,DZ,Under 25,18
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,EA,25 to 34,118
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,EB,35 to 44,43
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,EC,45 to 54,298
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,ED,55 to 64,73
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,EE,65 or over,40
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,EF,Total reporting,588
+44-45,70,Retail trade,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+44-45,80,Retail trade,Some other race,DZ,Under 25,196
+44-45,80,Retail trade,Some other race,EA,25 to 34,1058
+44-45,80,Retail trade,Some other race,EB,35 to 44,2322
+44-45,80,Retail trade,Some other race,EC,45 to 54,3369
+44-45,80,Retail trade,Some other race,ED,55 to 64,1955
+44-45,80,Retail trade,Some other race,EE,65 or over,710
+44-45,80,Retail trade,Some other race,EF,Total reporting,9610
+44-45,80,Retail trade,Some other race,EG,Item not reported,0
+48-49(651),1,Transportation and warehousing,Female,DZ,Under 25,235
+48-49(651),1,Transportation and warehousing,Female,EA,25 to 34,2118
+48-49(651),1,Transportation and warehousing,Female,EB,35 to 44,7294
+48-49(651),1,Transportation and warehousing,Female,EC,45 to 54,12490
+48-49(651),1,Transportation and warehousing,Female,ED,55 to 64,14001
+48-49(651),1,Transportation and warehousing,Female,EE,65 or over,7478
+48-49(651),1,Transportation and warehousing,Female,EF,Total reporting,43615
+48-49(651),1,Transportation and warehousing,Female,EG,Item not reported,79
+48-49(651),2,Transportation and warehousing,Male,DZ,Under 25,792
+48-49(651),2,Transportation and warehousing,Male,EA,25 to 34,6974
+48-49(651),2,Transportation and warehousing,Male,EB,35 to 44,19259
+48-49(651),2,Transportation and warehousing,Male,EC,45 to 54,34812
+48-49(651),2,Transportation and warehousing,Male,ED,55 to 64,36562
+48-49(651),2,Transportation and warehousing,Male,EE,65 or over,20058
+48-49(651),2,Transportation and warehousing,Male,EF,Total reporting,118457
+48-49(651),2,Transportation and warehousing,Male,EG,Item not reported,296
+48-49(651),20,Transportation and warehousing,Hispanic,DZ,Under 25,226
+48-49(651),20,Transportation and warehousing,Hispanic,EA,25 to 34,1442
+48-49(651),20,Transportation and warehousing,Hispanic,EB,35 to 44,4146
+48-49(651),20,Transportation and warehousing,Hispanic,EC,45 to 54,4907
+48-49(651),20,Transportation and warehousing,Hispanic,ED,55 to 64,3334
+48-49(651),20,Transportation and warehousing,Hispanic,EE,65 or over,819
+48-49(651),20,Transportation and warehousing,Hispanic,EF,Total reporting,14874
+48-49(651),20,Transportation and warehousing,Hispanic,EG,Item not reported,0
+48-49(651),29,Transportation and warehousing,Non-Hispanic,DZ,Under 25,800
+48-49(651),29,Transportation and warehousing,Non-Hispanic,EA,25 to 34,7650
+48-49(651),29,Transportation and warehousing,Non-Hispanic,EB,35 to 44,22407
+48-49(651),29,Transportation and warehousing,Non-Hispanic,EC,45 to 54,42395
+48-49(651),29,Transportation and warehousing,Non-Hispanic,ED,55 to 64,47230
+48-49(651),29,Transportation and warehousing,Non-Hispanic,EE,65 or over,26717
+48-49(651),29,Transportation and warehousing,Non-Hispanic,EF,Total reporting,147198
+48-49(651),29,Transportation and warehousing,Non-Hispanic,EG,Item not reported,375
+48-49(651),30,Transportation and warehousing,White,DZ,Under 25,930
+48-49(651),30,Transportation and warehousing,White,EA,25 to 34,7909
+48-49(651),30,Transportation and warehousing,White,EB,35 to 44,22686
+48-49(651),30,Transportation and warehousing,White,EC,45 to 54,42193
+48-49(651),30,Transportation and warehousing,White,ED,55 to 64,46413
+48-49(651),30,Transportation and warehousing,White,EE,65 or over,26316
+48-49(651),30,Transportation and warehousing,White,EF,Total reporting,146448
+48-49(651),30,Transportation and warehousing,White,EG,Item not reported,344
+48-49(651),40,Transportation and warehousing,Black or African American,DZ,Under 25,0
+48-49(651),40,Transportation and warehousing,Black or African American,EA,25 to 34,241
+48-49(651),40,Transportation and warehousing,Black or African American,EB,35 to 44,1005
+48-49(651),40,Transportation and warehousing,Black or African American,EC,45 to 54,1558
+48-49(651),40,Transportation and warehousing,Black or African American,ED,55 to 64,1263
+48-49(651),40,Transportation and warehousing,Black or African American,EE,65 or over,567
+48-49(651),40,Transportation and warehousing,Black or African American,EF,Total reporting,4633
+48-49(651),40,Transportation and warehousing,Black or African American,EG,Item not reported,0
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,DZ,Under 25,0
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,EA,25 to 34,95
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,EB,35 to 44,225
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,EC,45 to 54,352
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,ED,55 to 64,343
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,EE,65 or over,135
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,EF,Total reporting,1150
+48-49(651),50,Transportation and warehousing,American Indian and Alaska Native,EG,Item not reported,0
+48-49(651),60,Transportation and warehousing,Asian,DZ,Under 25,0
+48-49(651),60,Transportation and warehousing,Asian,EA,25 to 34,485
+48-49(651),60,Transportation and warehousing,Asian,EB,35 to 44,1804
+48-49(651),60,Transportation and warehousing,Asian,EC,45 to 54,2385
+48-49(651),60,Transportation and warehousing,Asian,ED,55 to 64,2010
+48-49(651),60,Transportation and warehousing,Asian,EE,65 or over,483
+48-49(651),60,Transportation and warehousing,Asian,EF,Total reporting,7166
+48-49(651),60,Transportation and warehousing,Asian,EG,Item not reported,31
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,EA,25 to 34,58
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,EB,35 to 44,7
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,EC,45 to 54,94
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,ED,55 to 64,23
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,EE,65 or over,2
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,EF,Total reporting,184
+48-49(651),70,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+48-49(651),80,Transportation and warehousing,Some other race,DZ,Under 25,96
+48-49(651),80,Transportation and warehousing,Some other race,EA,25 to 34,491
+48-49(651),80,Transportation and warehousing,Some other race,EB,35 to 44,1152
+48-49(651),80,Transportation and warehousing,Some other race,EC,45 to 54,1202
+48-49(651),80,Transportation and warehousing,Some other race,ED,55 to 64,865
+48-49(651),80,Transportation and warehousing,Some other race,EE,65 or over,181
+48-49(651),80,Transportation and warehousing,Some other race,EF,Total reporting,3987
+48-49(651),80,Transportation and warehousing,Some other race,EG,Item not reported,0
+51,1,Information,Female,DZ,Under 25,121
+51,1,Information,Female,EA,25 to 34,1022
+51,1,Information,Female,EB,35 to 44,2559
+51,1,Information,Female,EC,45 to 54,4737
+51,1,Information,Female,ED,55 to 64,5097
+51,1,Information,Female,EE,65 or over,3833
+51,1,Information,Female,EF,Total reporting,17369
+51,1,Information,Female,EG,Item not reported,1
+51,2,Information,Male,DZ,Under 25,486
+51,2,Information,Male,EA,25 to 34,3872
+51,2,Information,Male,EB,35 to 44,9364
+51,2,Information,Male,EC,45 to 54,15111
+51,2,Information,Male,ED,55 to 64,13646
+51,2,Information,Male,EE,65 or over,10180
+51,2,Information,Male,EF,Total reporting,52659
+51,2,Information,Male,EG,Item not reported,188
+51,20,Information,Hispanic,DZ,Under 25,0
+51,20,Information,Hispanic,EA,25 to 34,346
+51,20,Information,Hispanic,EB,35 to 44,593
+51,20,Information,Hispanic,EC,45 to 54,814
+51,20,Information,Hispanic,ED,55 to 64,452
+51,20,Information,Hispanic,EE,65 or over,79
+51,20,Information,Hispanic,EF,Total reporting,2285
+51,20,Information,Hispanic,EG,Item not reported,0
+51,29,Information,Non-Hispanic,DZ,Under 25,606
+51,29,Information,Non-Hispanic,EA,25 to 34,4548
+51,29,Information,Non-Hispanic,EB,35 to 44,11329
+51,29,Information,Non-Hispanic,EC,45 to 54,19034
+51,29,Information,Non-Hispanic,ED,55 to 64,18291
+51,29,Information,Non-Hispanic,EE,65 or over,13935
+51,29,Information,Non-Hispanic,EF,Total reporting,67743
+51,29,Information,Non-Hispanic,EG,Item not reported,189
+51,30,Information,White,DZ,Under 25,513
+51,30,Information,White,EA,25 to 34,3939
+51,30,Information,White,EB,35 to 44,10138
+51,30,Information,White,EC,45 to 54,18139
+51,30,Information,White,ED,55 to 64,17650
+51,30,Information,White,EE,65 or over,13548
+51,30,Information,White,EF,Total reporting,63928
+51,30,Information,White,EG,Item not reported,93
+51,40,Information,Black or African American,DZ,Under 25,31
+51,40,Information,Black or African American,EA,25 to 34,173
+51,40,Information,Black or African American,EB,35 to 44,254
+51,40,Information,Black or African American,EC,45 to 54,385
+51,40,Information,Black or African American,ED,55 to 64,447
+51,40,Information,Black or African American,EE,65 or over,334
+51,40,Information,Black or African American,EF,Total reporting,1625
+51,40,Information,Black or African American,EG,Item not reported,0
+51,50,Information,American Indian and Alaska Native,DZ,Under 25,62
+51,50,Information,American Indian and Alaska Native,EA,25 to 34,0
+51,50,Information,American Indian and Alaska Native,EB,35 to 44,35
+51,50,Information,American Indian and Alaska Native,EC,45 to 54,147
+51,50,Information,American Indian and Alaska Native,ED,55 to 64,26
+51,50,Information,American Indian and Alaska Native,EE,65 or over,41
+51,50,Information,American Indian and Alaska Native,EF,Total reporting,311
+51,50,Information,American Indian and Alaska Native,EG,Item not reported,14
+51,60,Information,Asian,DZ,Under 25,31
+51,60,Information,Asian,EA,25 to 34,697
+51,60,Information,Asian,EB,35 to 44,1473
+51,60,Information,Asian,EC,45 to 54,1189
+51,60,Information,Asian,ED,55 to 64,649
+51,60,Information,Asian,EE,65 or over,119
+51,60,Information,Asian,EF,Total reporting,4158
+51,60,Information,Asian,EG,Item not reported,82
+51,70,Information,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+51,70,Information,Native Hawaiian and Other Pacific Islander,EA,25 to 34,24
+51,70,Information,Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+51,70,Information,Native Hawaiian and Other Pacific Islander,EC,45 to 54,20
+51,70,Information,Native Hawaiian and Other Pacific Islander,ED,55 to 64,2
+51,70,Information,Native Hawaiian and Other Pacific Islander,EE,65 or over,0
+51,70,Information,Native Hawaiian and Other Pacific Islander,EF,Total reporting,46
+51,70,Information,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+51,80,Information,Some other race,DZ,Under 25,0
+51,80,Information,Some other race,EA,25 to 34,166
+51,80,Information,Some other race,EB,35 to 44,279
+51,80,Information,Some other race,EC,45 to 54,207
+51,80,Information,Some other race,ED,55 to 64,51
+51,80,Information,Some other race,EE,65 or over,3
+51,80,Information,Some other race,EF,Total reporting,706
+51,80,Information,Some other race,EG,Item not reported,0
+52(652),1,Finance and insurance,Female,DZ,Under 25,235
+52(652),1,Finance and insurance,Female,EA,25 to 34,3041
+52(652),1,Finance and insurance,Female,EB,35 to 44,8261
+52(652),1,Finance and insurance,Female,EC,45 to 54,16416
+52(652),1,Finance and insurance,Female,ED,55 to 64,18461
+52(652),1,Finance and insurance,Female,EE,65 or over,11697
+52(652),1,Finance and insurance,Female,EF,Total reporting,58111
+52(652),1,Finance and insurance,Female,EG,Item not reported,51
+52(652),2,Finance and insurance,Male,DZ,Under 25,373
+52(652),2,Finance and insurance,Male,EA,25 to 34,8090
+52(652),2,Finance and insurance,Male,EB,35 to 44,24921
+52(652),2,Finance and insurance,Male,EC,45 to 54,44476
+52(652),2,Finance and insurance,Male,ED,55 to 64,51028
+52(652),2,Finance and insurance,Male,EE,65 or over,39600
+52(652),2,Finance and insurance,Male,EF,Total reporting,168488
+52(652),2,Finance and insurance,Male,EG,Item not reported,195
+52(652),20,Finance and insurance,Hispanic,DZ,Under 25,37
+52(652),20,Finance and insurance,Hispanic,EA,25 to 34,926
+52(652),20,Finance and insurance,Hispanic,EB,35 to 44,2569
+52(652),20,Finance and insurance,Hispanic,EC,45 to 54,2983
+52(652),20,Finance and insurance,Hispanic,ED,55 to 64,2607
+52(652),20,Finance and insurance,Hispanic,EE,65 or over,1538
+52(652),20,Finance and insurance,Hispanic,EF,Total reporting,10661
+52(652),20,Finance and insurance,Hispanic,EG,Item not reported,0
+52(652),29,Finance and insurance,Non-Hispanic,DZ,Under 25,571
+52(652),29,Finance and insurance,Non-Hispanic,EA,25 to 34,10205
+52(652),29,Finance and insurance,Non-Hispanic,EB,35 to 44,30613
+52(652),29,Finance and insurance,Non-Hispanic,EC,45 to 54,57909
+52(652),29,Finance and insurance,Non-Hispanic,ED,55 to 64,66882
+52(652),29,Finance and insurance,Non-Hispanic,EE,65 or over,49760
+52(652),29,Finance and insurance,Non-Hispanic,EF,Total reporting,215939
+52(652),29,Finance and insurance,Non-Hispanic,EG,Item not reported,246
+52(652),30,Finance and insurance,White,DZ,Under 25,463
+52(652),30,Finance and insurance,White,EA,25 to 34,10096
+52(652),30,Finance and insurance,White,EB,35 to 44,30144
+52(652),30,Finance and insurance,White,EC,45 to 54,56385
+52(652),30,Finance and insurance,White,ED,55 to 64,65891
+52(652),30,Finance and insurance,White,EE,65 or over,49247
+52(652),30,Finance and insurance,White,EF,Total reporting,212225
+52(652),30,Finance and insurance,White,EG,Item not reported,229
+52(652),40,Finance and insurance,Black or African American,DZ,Under 25,41
+52(652),40,Finance and insurance,Black or African American,EA,25 to 34,338
+52(652),40,Finance and insurance,Black or African American,EB,35 to 44,658
+52(652),40,Finance and insurance,Black or African American,EC,45 to 54,1276
+52(652),40,Finance and insurance,Black or African American,ED,55 to 64,733
+52(652),40,Finance and insurance,Black or African American,EE,65 or over,719
+52(652),40,Finance and insurance,Black or African American,EF,Total reporting,3766
+52(652),40,Finance and insurance,Black or African American,EG,Item not reported,0
+52(652),50,Finance and insurance,American Indian and Alaska Native,DZ,Under 25,48
+52(652),50,Finance and insurance,American Indian and Alaska Native,EA,25 to 34,84
+52(652),50,Finance and insurance,American Indian and Alaska Native,EB,35 to 44,262
+52(652),50,Finance and insurance,American Indian and Alaska Native,EC,45 to 54,509
+52(652),50,Finance and insurance,American Indian and Alaska Native,ED,55 to 64,311
+52(652),50,Finance and insurance,American Indian and Alaska Native,EE,65 or over,149
+52(652),50,Finance and insurance,American Indian and Alaska Native,EF,Total reporting,1364
+52(652),50,Finance and insurance,American Indian and Alaska Native,EG,Item not reported,0
+52(652),60,Finance and insurance,Asian,DZ,Under 25,31
+52(652),60,Finance and insurance,Asian,EA,25 to 34,542
+52(652),60,Finance and insurance,Asian,EB,35 to 44,2003
+52(652),60,Finance and insurance,Asian,EC,45 to 54,2805
+52(652),60,Finance and insurance,Asian,ED,55 to 64,2282
+52(652),60,Finance and insurance,Asian,EE,65 or over,1118
+52(652),60,Finance and insurance,Asian,EF,Total reporting,8780
+52(652),60,Finance and insurance,Asian,EG,Item not reported,0
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,EA,25 to 34,0
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,EB,35 to 44,14
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,EC,45 to 54,72
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,ED,55 to 64,58
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,EE,65 or over,33
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,EF,Total reporting,177
+52(652),70,Finance and insurance,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+52(652),80,Finance and insurance,Some other race,DZ,Under 25,25
+52(652),80,Finance and insurance,Some other race,EA,25 to 34,250
+52(652),80,Finance and insurance,Some other race,EB,35 to 44,668
+52(652),80,Finance and insurance,Some other race,EC,45 to 54,600
+52(652),80,Finance and insurance,Some other race,ED,55 to 64,523
+52(652),80,Finance and insurance,Some other race,EE,65 or over,172
+52(652),80,Finance and insurance,Some other race,EF,Total reporting,2239
+52(652),80,Finance and insurance,Some other race,EG,Item not reported,17
+53,1,Real estate and rental and leasing,Female,DZ,Under 25,595
+53,1,Real estate and rental and leasing,Female,EA,25 to 34,4378
+53,1,Real estate and rental and leasing,Female,EB,35 to 44,11550
+53,1,Real estate and rental and leasing,Female,EC,45 to 54,23158
+53,1,Real estate and rental and leasing,Female,ED,55 to 64,31305
+53,1,Real estate and rental and leasing,Female,EE,65 or over,27838
+53,1,Real estate and rental and leasing,Female,EF,Total reporting,98825
+53,1,Real estate and rental and leasing,Female,EG,Item not reported,299
+53,2,Real estate and rental and leasing,Male,DZ,Under 25,1042
+53,2,Real estate and rental and leasing,Male,EA,25 to 34,8534
+53,2,Real estate and rental and leasing,Male,EB,35 to 44,24110
+53,2,Real estate and rental and leasing,Male,EC,45 to 54,42536
+53,2,Real estate and rental and leasing,Male,ED,55 to 64,54472
+53,2,Real estate and rental and leasing,Male,EE,65 or over,57245
+53,2,Real estate and rental and leasing,Male,EF,Total reporting,187939
+53,2,Real estate and rental and leasing,Male,EG,Item not reported,643
+53,20,Real estate and rental and leasing,Hispanic,DZ,Under 25,50
+53,20,Real estate and rental and leasing,Hispanic,EA,25 to 34,793
+53,20,Real estate and rental and leasing,Hispanic,EB,35 to 44,2653
+53,20,Real estate and rental and leasing,Hispanic,EC,45 to 54,3701
+53,20,Real estate and rental and leasing,Hispanic,ED,55 to 64,2734
+53,20,Real estate and rental and leasing,Hispanic,EE,65 or over,1740
+53,20,Real estate and rental and leasing,Hispanic,EF,Total reporting,11671
+53,20,Real estate and rental and leasing,Hispanic,EG,Item not reported,72
+53,29,Real estate and rental and leasing,Non-Hispanic,DZ,Under 25,1587
+53,29,Real estate and rental and leasing,Non-Hispanic,EA,25 to 34,12120
+53,29,Real estate and rental and leasing,Non-Hispanic,EB,35 to 44,33007
+53,29,Real estate and rental and leasing,Non-Hispanic,EC,45 to 54,61993
+53,29,Real estate and rental and leasing,Non-Hispanic,ED,55 to 64,83044
+53,29,Real estate and rental and leasing,Non-Hispanic,EE,65 or over,83343
+53,29,Real estate and rental and leasing,Non-Hispanic,EF,Total reporting,275093
+53,29,Real estate and rental and leasing,Non-Hispanic,EG,Item not reported,871
+53,30,Real estate and rental and leasing,White,DZ,Under 25,1497
+53,30,Real estate and rental and leasing,White,EA,25 to 34,11485
+53,30,Real estate and rental and leasing,White,EB,35 to 44,32148
+53,30,Real estate and rental and leasing,White,EC,45 to 54,60340
+53,30,Real estate and rental and leasing,White,ED,55 to 64,80463
+53,30,Real estate and rental and leasing,White,EE,65 or over,79558
+53,30,Real estate and rental and leasing,White,EF,Total reporting,265490
+53,30,Real estate and rental and leasing,White,EG,Item not reported,912
+53,40,Real estate and rental and leasing,Black or African American,DZ,Under 25,0
+53,40,Real estate and rental and leasing,Black or African American,EA,25 to 34,254
+53,40,Real estate and rental and leasing,Black or African American,EB,35 to 44,572
+53,40,Real estate and rental and leasing,Black or African American,EC,45 to 54,628
+53,40,Real estate and rental and leasing,Black or African American,ED,55 to 64,846
+53,40,Real estate and rental and leasing,Black or African American,EE,65 or over,694
+53,40,Real estate and rental and leasing,Black or African American,EF,Total reporting,2994
+53,40,Real estate and rental and leasing,Black or African American,EG,Item not reported,0
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,DZ,Under 25,9
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,EA,25 to 34,29
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,EB,35 to 44,184
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,EC,45 to 54,383
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,ED,55 to 64,446
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,EE,65 or over,198
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,EF,Total reporting,1250
+53,50,Real estate and rental and leasing,American Indian and Alaska Native,EG,Item not reported,0
+53,60,Real estate and rental and leasing,Asian,DZ,Under 25,128
+53,60,Real estate and rental and leasing,Asian,EA,25 to 34,1022
+53,60,Real estate and rental and leasing,Asian,EB,35 to 44,2581
+53,60,Real estate and rental and leasing,Asian,EC,45 to 54,3858
+53,60,Real estate and rental and leasing,Asian,ED,55 to 64,4399
+53,60,Real estate and rental and leasing,Asian,EE,65 or over,4559
+53,60,Real estate and rental and leasing,Asian,EF,Total reporting,16546
+53,60,Real estate and rental and leasing,Asian,EG,Item not reported,0
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,DZ,Under 25,5
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,EA,25 to 34,89
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,EB,35 to 44,73
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,EC,45 to 54,85
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,ED,55 to 64,90
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,EE,65 or over,4
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,EF,Total reporting,346
+53,70,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+53,80,Real estate and rental and leasing,Some other race,DZ,Under 25,99
+53,80,Real estate and rental and leasing,Some other race,EA,25 to 34,216
+53,80,Real estate and rental and leasing,Some other race,EB,35 to 44,662
+53,80,Real estate and rental and leasing,Some other race,EC,45 to 54,1043
+53,80,Real estate and rental and leasing,Some other race,ED,55 to 64,429
+53,80,Real estate and rental and leasing,Some other race,EE,65 or over,358
+53,80,Real estate and rental and leasing,Some other race,EF,Total reporting,2808
+53,80,Real estate and rental and leasing,Some other race,EG,Item not reported,31
+54,1,"Professional, scientific, and technical services",Female,DZ,Under 25,1251
+54,1,"Professional, scientific, and technical services",Female,EA,25 to 34,11544
+54,1,"Professional, scientific, and technical services",Female,EB,35 to 44,45987
+54,1,"Professional, scientific, and technical services",Female,EC,45 to 54,73277
+54,1,"Professional, scientific, and technical services",Female,ED,55 to 64,72598
+54,1,"Professional, scientific, and technical services",Female,EE,65 or over,32142
+54,1,"Professional, scientific, and technical services",Female,EF,Total reporting,236799
+54,1,"Professional, scientific, and technical services",Female,EG,Item not reported,191
+54,2,"Professional, scientific, and technical services",Male,DZ,Under 25,1716
+54,2,"Professional, scientific, and technical services",Male,EA,25 to 34,23621
+54,2,"Professional, scientific, and technical services",Male,EB,35 to 44,93704
+54,2,"Professional, scientific, and technical services",Male,EC,45 to 54,159322
+54,2,"Professional, scientific, and technical services",Male,ED,55 to 64,180081
+54,2,"Professional, scientific, and technical services",Male,EE,65 or over,126884
+54,2,"Professional, scientific, and technical services",Male,EF,Total reporting,585328
+54,2,"Professional, scientific, and technical services",Male,EG,Item not reported,1312
+54,20,"Professional, scientific, and technical services",Hispanic,DZ,Under 25,326
+54,20,"Professional, scientific, and technical services",Hispanic,EA,25 to 34,2844
+54,20,"Professional, scientific, and technical services",Hispanic,EB,35 to 44,8410
+54,20,"Professional, scientific, and technical services",Hispanic,EC,45 to 54,11693
+54,20,"Professional, scientific, and technical services",Hispanic,ED,55 to 64,8164
+54,20,"Professional, scientific, and technical services",Hispanic,EE,65 or over,3641
+54,20,"Professional, scientific, and technical services",Hispanic,EF,Total reporting,35078
+54,20,"Professional, scientific, and technical services",Hispanic,EG,Item not reported,31
+54,29,"Professional, scientific, and technical services",Non-Hispanic,DZ,Under 25,2642
+54,29,"Professional, scientific, and technical services",Non-Hispanic,EA,25 to 34,32322
+54,29,"Professional, scientific, and technical services",Non-Hispanic,EB,35 to 44,131281
+54,29,"Professional, scientific, and technical services",Non-Hispanic,EC,45 to 54,220906
+54,29,"Professional, scientific, and technical services",Non-Hispanic,ED,55 to 64,244514
+54,29,"Professional, scientific, and technical services",Non-Hispanic,EE,65 or over,155385
+54,29,"Professional, scientific, and technical services",Non-Hispanic,EF,Total reporting,787049
+54,29,"Professional, scientific, and technical services",Non-Hispanic,EG,Item not reported,1472
+54,30,"Professional, scientific, and technical services",White,DZ,Under 25,2336
+54,30,"Professional, scientific, and technical services",White,EA,25 to 34,30550
+54,30,"Professional, scientific, and technical services",White,EB,35 to 44,116078
+54,30,"Professional, scientific, and technical services",White,EC,45 to 54,205567
+54,30,"Professional, scientific, and technical services",White,ED,55 to 64,237416
+54,30,"Professional, scientific, and technical services",White,EE,65 or over,151278
+54,30,"Professional, scientific, and technical services",White,EF,Total reporting,743225
+54,30,"Professional, scientific, and technical services",White,EG,Item not reported,1313
+54,40,"Professional, scientific, and technical services",Black or African American,DZ,Under 25,80
+54,40,"Professional, scientific, and technical services",Black or African American,EA,25 to 34,631
+54,40,"Professional, scientific, and technical services",Black or African American,EB,35 to 44,3187
+54,40,"Professional, scientific, and technical services",Black or African American,EC,45 to 54,4725
+54,40,"Professional, scientific, and technical services",Black or African American,ED,55 to 64,3277
+54,40,"Professional, scientific, and technical services",Black or African American,EE,65 or over,1931
+54,40,"Professional, scientific, and technical services",Black or African American,EF,Total reporting,13830
+54,40,"Professional, scientific, and technical services",Black or African American,EG,Item not reported,0
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,DZ,Under 25,60
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,EA,25 to 34,167
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,EB,35 to 44,1037
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,EC,45 to 54,1547
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,ED,55 to 64,1152
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,EE,65 or over,727
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,EF,Total reporting,4690
+54,50,"Professional, scientific, and technical services",American Indian and Alaska Native,EG,Item not reported,0
+54,60,"Professional, scientific, and technical services",Asian,DZ,Under 25,465
+54,60,"Professional, scientific, and technical services",Asian,EA,25 to 34,4052
+54,60,"Professional, scientific, and technical services",Asian,EB,35 to 44,19882
+54,60,"Professional, scientific, and technical services",Asian,EC,45 to 54,20348
+54,60,"Professional, scientific, and technical services",Asian,ED,55 to 64,10888
+54,60,"Professional, scientific, and technical services",Asian,EE,65 or over,5133
+54,60,"Professional, scientific, and technical services",Asian,EF,Total reporting,60767
+54,60,"Professional, scientific, and technical services",Asian,EG,Item not reported,138
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,EA,25 to 34,32
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,EB,35 to 44,107
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,EC,45 to 54,305
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,ED,55 to 64,209
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,EE,65 or over,109
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,EF,Total reporting,763
+54,70,"Professional, scientific, and technical services",Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+54,80,"Professional, scientific, and technical services",Some other race,DZ,Under 25,58
+54,80,"Professional, scientific, and technical services",Some other race,EA,25 to 34,550
+54,80,"Professional, scientific, and technical services",Some other race,EB,35 to 44,1446
+54,80,"Professional, scientific, and technical services",Some other race,EC,45 to 54,2849
+54,80,"Professional, scientific, and technical services",Some other race,ED,55 to 64,1652
+54,80,"Professional, scientific, and technical services",Some other race,EE,65 or over,615
+54,80,"Professional, scientific, and technical services",Some other race,EF,Total reporting,7171
+54,80,"Professional, scientific, and technical services",Some other race,EG,Item not reported,52
+55,1,Management of companies and enterprises,Female,DZ,Under 25,18
+55,1,Management of companies and enterprises,Female,EA,25 to 34,102
+55,1,Management of companies and enterprises,Female,EB,35 to 44,579
+55,1,Management of companies and enterprises,Female,EC,45 to 54,1034
+55,1,Management of companies and enterprises,Female,ED,55 to 64,1767
+55,1,Management of companies and enterprises,Female,EE,65 or over,1427
+55,1,Management of companies and enterprises,Female,EF,Total reporting,4928
+55,1,Management of companies and enterprises,Female,EG,Item not reported,3
+55,2,Management of companies and enterprises,Male,DZ,Under 25,79
+55,2,Management of companies and enterprises,Male,EA,25 to 34,373
+55,2,Management of companies and enterprises,Male,EB,35 to 44,1470
+55,2,Management of companies and enterprises,Male,EC,45 to 54,3769
+55,2,Management of companies and enterprises,Male,ED,55 to 64,5005
+55,2,Management of companies and enterprises,Male,EE,65 or over,4954
+55,2,Management of companies and enterprises,Male,EF,Total reporting,15650
+55,2,Management of companies and enterprises,Male,EG,Item not reported,71
+55,20,Management of companies and enterprises,Hispanic,DZ,Under 25,0
+55,20,Management of companies and enterprises,Hispanic,EA,25 to 34,32
+55,20,Management of companies and enterprises,Hispanic,EB,35 to 44,51
+55,20,Management of companies and enterprises,Hispanic,EC,45 to 54,117
+55,20,Management of companies and enterprises,Hispanic,ED,55 to 64,140
+55,20,Management of companies and enterprises,Hispanic,EE,65 or over,95
+55,20,Management of companies and enterprises,Hispanic,EF,Total reporting,436
+55,20,Management of companies and enterprises,Hispanic,EG,Item not reported,0
+55,29,Management of companies and enterprises,Non-Hispanic,DZ,Under 25,97
+55,29,Management of companies and enterprises,Non-Hispanic,EA,25 to 34,443
+55,29,Management of companies and enterprises,Non-Hispanic,EB,35 to 44,1998
+55,29,Management of companies and enterprises,Non-Hispanic,EC,45 to 54,4686
+55,29,Management of companies and enterprises,Non-Hispanic,ED,55 to 64,6632
+55,29,Management of companies and enterprises,Non-Hispanic,EE,65 or over,6286
+55,29,Management of companies and enterprises,Non-Hispanic,EF,Total reporting,20142
+55,29,Management of companies and enterprises,Non-Hispanic,EG,Item not reported,74
+55,30,Management of companies and enterprises,White,DZ,Under 25,86
+55,30,Management of companies and enterprises,White,EA,25 to 34,380
+55,30,Management of companies and enterprises,White,EB,35 to 44,1980
+55,30,Management of companies and enterprises,White,EC,45 to 54,4669
+55,30,Management of companies and enterprises,White,ED,55 to 64,6452
+55,30,Management of companies and enterprises,White,EE,65 or over,6074
+55,30,Management of companies and enterprises,White,EF,Total reporting,19642
+55,30,Management of companies and enterprises,White,EG,Item not reported,74
+55,40,Management of companies and enterprises,Black or African American,DZ,Under 25,0
+55,40,Management of companies and enterprises,Black or African American,EA,25 to 34,1
+55,40,Management of companies and enterprises,Black or African American,EB,35 to 44,2
+55,40,Management of companies and enterprises,Black or African American,EC,45 to 54,6
+55,40,Management of companies and enterprises,Black or African American,ED,55 to 64,30
+55,40,Management of companies and enterprises,Black or African American,EE,65 or over,54
+55,40,Management of companies and enterprises,Black or African American,EF,Total reporting,93
+55,40,Management of companies and enterprises,Black or African American,EG,Item not reported,0
+55,50,Management of companies and enterprises,American Indian and Alaska Native,DZ,Under 25,0
+55,50,Management of companies and enterprises,American Indian and Alaska Native,EA,25 to 34,0
+55,50,Management of companies and enterprises,American Indian and Alaska Native,EB,35 to 44,54
+55,50,Management of companies and enterprises,American Indian and Alaska Native,EC,45 to 54,15
+55,50,Management of companies and enterprises,American Indian and Alaska Native,ED,55 to 64,7
+55,50,Management of companies and enterprises,American Indian and Alaska Native,EE,65 or over,13
+55,50,Management of companies and enterprises,American Indian and Alaska Native,EF,Total reporting,88
+55,50,Management of companies and enterprises,American Indian and Alaska Native,EG,Item not reported,0
+55,60,Management of companies and enterprises,Asian,DZ,Under 25,0
+55,60,Management of companies and enterprises,Asian,EA,25 to 34,63
+55,60,Management of companies and enterprises,Asian,EB,35 to 44,18
+55,60,Management of companies and enterprises,Asian,EC,45 to 54,102
+55,60,Management of companies and enterprises,Asian,ED,55 to 64,205
+55,60,Management of companies and enterprises,Asian,EE,65 or over,196
+55,60,Management of companies and enterprises,Asian,EF,Total reporting,584
+55,60,Management of companies and enterprises,Asian,EG,Item not reported,0
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,EA,25 to 34,0
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,EC,45 to 54,3
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,ED,55 to 64,3
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,EE,65 or over,0
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,EF,Total reporting,6
+55,70,Management of companies and enterprises,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+55,80,Management of companies and enterprises,Some other race,DZ,Under 25,11
+55,80,Management of companies and enterprises,Some other race,EA,25 to 34,31
+55,80,Management of companies and enterprises,Some other race,EB,35 to 44,31
+55,80,Management of companies and enterprises,Some other race,EC,45 to 54,17
+55,80,Management of companies and enterprises,Some other race,ED,55 to 64,81
+55,80,Management of companies and enterprises,Some other race,EE,65 or over,44
+55,80,Management of companies and enterprises,Some other race,EF,Total reporting,214
+55,80,Management of companies and enterprises,Some other race,EG,Item not reported,0
+56,1,Administrative and support and waste management and remediation services,Female,DZ,Under 25,712
+56,1,Administrative and support and waste management and remediation services,Female,EA,25 to 34,4457
+56,1,Administrative and support and waste management and remediation services,Female,EB,35 to 44,15027
+56,1,Administrative and support and waste management and remediation services,Female,EC,45 to 54,29369
+56,1,Administrative and support and waste management and remediation services,Female,ED,55 to 64,30908
+56,1,Administrative and support and waste management and remediation services,Female,EE,65 or over,16491
+56,1,Administrative and support and waste management and remediation services,Female,EF,Total reporting,96965
+56,1,Administrative and support and waste management and remediation services,Female,EG,Item not reported,181
+56,2,Administrative and support and waste management and remediation services,Male,DZ,Under 25,1960
+56,2,Administrative and support and waste management and remediation services,Male,EA,25 to 34,15385
+56,2,Administrative and support and waste management and remediation services,Male,EB,35 to 44,38592
+56,2,Administrative and support and waste management and remediation services,Male,EC,45 to 54,62412
+56,2,Administrative and support and waste management and remediation services,Male,ED,55 to 64,59612
+56,2,Administrative and support and waste management and remediation services,Male,EE,65 or over,35243
+56,2,Administrative and support and waste management and remediation services,Male,EF,Total reporting,213203
+56,2,Administrative and support and waste management and remediation services,Male,EG,Item not reported,443
+56,20,Administrative and support and waste management and remediation services,Hispanic,DZ,Under 25,233
+56,20,Administrative and support and waste management and remediation services,Hispanic,EA,25 to 34,2151
+56,20,Administrative and support and waste management and remediation services,Hispanic,EB,35 to 44,5594
+56,20,Administrative and support and waste management and remediation services,Hispanic,EC,45 to 54,8104
+56,20,Administrative and support and waste management and remediation services,Hispanic,ED,55 to 64,5344
+56,20,Administrative and support and waste management and remediation services,Hispanic,EE,65 or over,1853
+56,20,Administrative and support and waste management and remediation services,Hispanic,EF,Total reporting,23279
+56,20,Administrative and support and waste management and remediation services,Hispanic,EG,Item not reported,3
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,DZ,Under 25,2440
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,EA,25 to 34,17690
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,EB,35 to 44,48025
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,EC,45 to 54,83676
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,ED,55 to 64,85177
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,EE,65 or over,49881
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,EF,Total reporting,286889
+56,29,Administrative and support and waste management and remediation services,Non-Hispanic,EG,Item not reported,621
+56,30,Administrative and support and waste management and remediation services,White,DZ,Under 25,2390
+56,30,Administrative and support and waste management and remediation services,White,EA,25 to 34,18401
+56,30,Administrative and support and waste management and remediation services,White,EB,35 to 44,48863
+56,30,Administrative and support and waste management and remediation services,White,EC,45 to 54,83842
+56,30,Administrative and support and waste management and remediation services,White,ED,55 to 64,83011
+56,30,Administrative and support and waste management and remediation services,White,EE,65 or over,48532
+56,30,Administrative and support and waste management and remediation services,White,EF,Total reporting,285039
+56,30,Administrative and support and waste management and remediation services,White,EG,Item not reported,621
+56,40,Administrative and support and waste management and remediation services,Black or African American,DZ,Under 25,39
+56,40,Administrative and support and waste management and remediation services,Black or African American,EA,25 to 34,424
+56,40,Administrative and support and waste management and remediation services,Black or African American,EB,35 to 44,733
+56,40,Administrative and support and waste management and remediation services,Black or African American,EC,45 to 54,2474
+56,40,Administrative and support and waste management and remediation services,Black or African American,ED,55 to 64,2743
+56,40,Administrative and support and waste management and remediation services,Black or African American,EE,65 or over,1466
+56,40,Administrative and support and waste management and remediation services,Black or African American,EF,Total reporting,7879
+56,40,Administrative and support and waste management and remediation services,Black or African American,EG,Item not reported,3
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,DZ,Under 25,0
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,EA,25 to 34,132
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,EB,35 to 44,355
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,EC,45 to 54,891
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,ED,55 to 64,480
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,EE,65 or over,324
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,EF,Total reporting,2182
+56,50,Administrative and support and waste management and remediation services,American Indian and Alaska Native,EG,Item not reported,0
+56,60,Administrative and support and waste management and remediation services,Asian,DZ,Under 25,171
+56,60,Administrative and support and waste management and remediation services,Asian,EA,25 to 34,511
+56,60,Administrative and support and waste management and remediation services,Asian,EB,35 to 44,2459
+56,60,Administrative and support and waste management and remediation services,Asian,EC,45 to 54,3418
+56,60,Administrative and support and waste management and remediation services,Asian,ED,55 to 64,3087
+56,60,Administrative and support and waste management and remediation services,Asian,EE,65 or over,1187
+56,60,Administrative and support and waste management and remediation services,Asian,EF,Total reporting,10833
+56,60,Administrative and support and waste management and remediation services,Asian,EG,Item not reported,0
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,EA,25 to 34,71
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,EB,35 to 44,136
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,EC,45 to 54,118
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,ED,55 to 64,168
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,EE,65 or over,160
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,EF,Total reporting,654
+56,70,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+56,80,Administrative and support and waste management and remediation services,Some other race,DZ,Under 25,133
+56,80,Administrative and support and waste management and remediation services,Some other race,EA,25 to 34,633
+56,80,Administrative and support and waste management and remediation services,Some other race,EB,35 to 44,1779
+56,80,Administrative and support and waste management and remediation services,Some other race,EC,45 to 54,2275
+56,80,Administrative and support and waste management and remediation services,Some other race,ED,55 to 64,1582
+56,80,Administrative and support and waste management and remediation services,Some other race,EE,65 or over,320
+56,80,Administrative and support and waste management and remediation services,Some other race,EF,Total reporting,6722
+56,80,Administrative and support and waste management and remediation services,Some other race,EG,Item not reported,0
+61,1,Educational services,Female,DZ,Under 25,177
+61,1,Educational services,Female,EA,25 to 34,2596
+61,1,Educational services,Female,EB,35 to 44,6086
+61,1,Educational services,Female,EC,45 to 54,8521
+61,1,Educational services,Female,ED,55 to 64,8442
+61,1,Educational services,Female,EE,65 or over,3836
+61,1,Educational services,Female,EF,Total reporting,29657
+61,1,Educational services,Female,EG,Item not reported,62
+61,2,Educational services,Male,DZ,Under 25,154
+61,2,Educational services,Male,EA,25 to 34,2114
+61,2,Educational services,Male,EB,35 to 44,5796
+61,2,Educational services,Male,EC,45 to 54,8709
+61,2,Educational services,Male,ED,55 to 64,8028
+61,2,Educational services,Male,EE,65 or over,4892
+61,2,Educational services,Male,EF,Total reporting,29693
+61,2,Educational services,Male,EG,Item not reported,62
+61,20,Educational services,Hispanic,DZ,Under 25,0
+61,20,Educational services,Hispanic,EA,25 to 34,193
+61,20,Educational services,Hispanic,EB,35 to 44,637
+61,20,Educational services,Hispanic,EC,45 to 54,772
+61,20,Educational services,Hispanic,ED,55 to 64,501
+61,20,Educational services,Hispanic,EE,65 or over,226
+61,20,Educational services,Hispanic,EF,Total reporting,2330
+61,20,Educational services,Hispanic,EG,Item not reported,0
+61,29,Educational services,Non-Hispanic,DZ,Under 25,330
+61,29,Educational services,Non-Hispanic,EA,25 to 34,4517
+61,29,Educational services,Non-Hispanic,EB,35 to 44,11246
+61,29,Educational services,Non-Hispanic,EC,45 to 54,16457
+61,29,Educational services,Non-Hispanic,ED,55 to 64,15969
+61,29,Educational services,Non-Hispanic,EE,65 or over,8501
+61,29,Educational services,Non-Hispanic,EF,Total reporting,57020
+61,29,Educational services,Non-Hispanic,EG,Item not reported,124
+61,30,Educational services,White,DZ,Under 25,243
+61,30,Educational services,White,EA,25 to 34,4136
+61,30,Educational services,White,EB,35 to 44,9258
+61,30,Educational services,White,EC,45 to 54,14215
+61,30,Educational services,White,ED,55 to 64,14330
+61,30,Educational services,White,EE,65 or over,8132
+61,30,Educational services,White,EF,Total reporting,50314
+61,30,Educational services,White,EG,Item not reported,124
+61,40,Educational services,Black or African American,DZ,Under 25,1
+61,40,Educational services,Black or African American,EA,25 to 34,193
+61,40,Educational services,Black or African American,EB,35 to 44,242
+61,40,Educational services,Black or African American,EC,45 to 54,602
+61,40,Educational services,Black or African American,ED,55 to 64,514
+61,40,Educational services,Black or African American,EE,65 or over,59
+61,40,Educational services,Black or African American,EF,Total reporting,1611
+61,40,Educational services,Black or African American,EG,Item not reported,0
+61,50,Educational services,American Indian and Alaska Native,DZ,Under 25,0
+61,50,Educational services,American Indian and Alaska Native,EA,25 to 34,0
+61,50,Educational services,American Indian and Alaska Native,EB,35 to 44,63
+61,50,Educational services,American Indian and Alaska Native,EC,45 to 54,63
+61,50,Educational services,American Indian and Alaska Native,ED,55 to 64,54
+61,50,Educational services,American Indian and Alaska Native,EE,65 or over,28
+61,50,Educational services,American Indian and Alaska Native,EF,Total reporting,207
+61,50,Educational services,American Indian and Alaska Native,EG,Item not reported,0
+61,60,Educational services,Asian,DZ,Under 25,86
+61,60,Educational services,Asian,EA,25 to 34,522
+61,60,Educational services,Asian,EB,35 to 44,2198
+61,60,Educational services,Asian,EC,45 to 54,2334
+61,60,Educational services,Asian,ED,55 to 64,1610
+61,60,Educational services,Asian,EE,65 or over,458
+61,60,Educational services,Asian,EF,Total reporting,7208
+61,60,Educational services,Asian,EG,Item not reported,0
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,EA,25 to 34,33
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,EC,45 to 54,34
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,ED,55 to 64,1
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,EE,65 or over,5
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,EF,Total reporting,73
+61,70,Educational services,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+61,80,Educational services,Some other race,DZ,Under 25,0
+61,80,Educational services,Some other race,EA,25 to 34,72
+61,80,Educational services,Some other race,EB,35 to 44,268
+61,80,Educational services,Some other race,EC,45 to 54,138
+61,80,Educational services,Some other race,ED,55 to 64,181
+61,80,Educational services,Some other race,EE,65 or over,62
+61,80,Educational services,Some other race,EF,Total reporting,720
+61,80,Educational services,Some other race,EG,Item not reported,0
+62,1,Health care and social assistance,Female,DZ,Under 25,593
+62,1,Health care and social assistance,Female,EA,25 to 34,13061
+62,1,Health care and social assistance,Female,EB,35 to 44,45784
+62,1,Health care and social assistance,Female,EC,45 to 54,59900
+62,1,Health care and social assistance,Female,ED,55 to 64,52260
+62,1,Health care and social assistance,Female,EE,65 or over,21943
+62,1,Health care and social assistance,Female,EF,Total reporting,193542
+62,1,Health care and social assistance,Female,EG,Item not reported,579
+62,2,Health care and social assistance,Male,DZ,Under 25,597
+62,2,Health care and social assistance,Male,EA,25 to 34,12131
+62,2,Health care and social assistance,Male,EB,35 to 44,58301
+62,2,Health care and social assistance,Male,EC,45 to 54,91208
+62,2,Health care and social assistance,Male,ED,55 to 64,111917
+62,2,Health care and social assistance,Male,EE,65 or over,66159
+62,2,Health care and social assistance,Male,EF,Total reporting,340313
+62,2,Health care and social assistance,Male,EG,Item not reported,911
+62,20,Health care and social assistance,Hispanic,DZ,Under 25,164
+62,20,Health care and social assistance,Hispanic,EA,25 to 34,2022
+62,20,Health care and social assistance,Hispanic,EB,35 to 44,6603
+62,20,Health care and social assistance,Hispanic,EC,45 to 54,10051
+62,20,Health care and social assistance,Hispanic,ED,55 to 64,8206
+62,20,Health care and social assistance,Hispanic,EE,65 or over,3108
+62,20,Health care and social assistance,Hispanic,EF,Total reporting,30153
+62,20,Health care and social assistance,Hispanic,EG,Item not reported,2
+62,29,Health care and social assistance,Non-Hispanic,DZ,Under 25,1027
+62,29,Health care and social assistance,Non-Hispanic,EA,25 to 34,23170
+62,29,Health care and social assistance,Non-Hispanic,EB,35 to 44,97482
+62,29,Health care and social assistance,Non-Hispanic,EC,45 to 54,141057
+62,29,Health care and social assistance,Non-Hispanic,ED,55 to 64,155972
+62,29,Health care and social assistance,Non-Hispanic,EE,65 or over,84995
+62,29,Health care and social assistance,Non-Hispanic,EF,Total reporting,503702
+62,29,Health care and social assistance,Non-Hispanic,EG,Item not reported,1488
+62,30,Health care and social assistance,White,DZ,Under 25,699
+62,30,Health care and social assistance,White,EA,25 to 34,20684
+62,30,Health care and social assistance,White,EB,35 to 44,79862
+62,30,Health care and social assistance,White,EC,45 to 54,118788
+62,30,Health care and social assistance,White,ED,55 to 64,139833
+62,30,Health care and social assistance,White,EE,65 or over,74310
+62,30,Health care and social assistance,White,EF,Total reporting,434176
+62,30,Health care and social assistance,White,EG,Item not reported,1232
+62,40,Health care and social assistance,Black or African American,DZ,Under 25,256
+62,40,Health care and social assistance,Black or African American,EA,25 to 34,1096
+62,40,Health care and social assistance,Black or African American,EB,35 to 44,5203
+62,40,Health care and social assistance,Black or African American,EC,45 to 54,7730
+62,40,Health care and social assistance,Black or African American,ED,55 to 64,6436
+62,40,Health care and social assistance,Black or African American,EE,65 or over,3080
+62,40,Health care and social assistance,Black or African American,EF,Total reporting,23801
+62,40,Health care and social assistance,Black or African American,EG,Item not reported,95
+62,50,Health care and social assistance,American Indian and Alaska Native,DZ,Under 25,58
+62,50,Health care and social assistance,American Indian and Alaska Native,EA,25 to 34,157
+62,50,Health care and social assistance,American Indian and Alaska Native,EB,35 to 44,524
+62,50,Health care and social assistance,American Indian and Alaska Native,EC,45 to 54,768
+62,50,Health care and social assistance,American Indian and Alaska Native,ED,55 to 64,755
+62,50,Health care and social assistance,American Indian and Alaska Native,EE,65 or over,308
+62,50,Health care and social assistance,American Indian and Alaska Native,EF,Total reporting,2569
+62,50,Health care and social assistance,American Indian and Alaska Native,EG,Item not reported,0
+62,60,Health care and social assistance,Asian,DZ,Under 25,238
+62,60,Health care and social assistance,Asian,EA,25 to 34,3547
+62,60,Health care and social assistance,Asian,EB,35 to 44,18038
+62,60,Health care and social assistance,Asian,EC,45 to 54,22625
+62,60,Health care and social assistance,Asian,ED,55 to 64,16560
+62,60,Health care and social assistance,Asian,EE,65 or over,10070
+62,60,Health care and social assistance,Asian,EF,Total reporting,71078
+62,60,Health care and social assistance,Asian,EG,Item not reported,163
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,EA,25 to 34,81
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,EB,35 to 44,196
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,EC,45 to 54,105
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,ED,55 to 64,271
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,EE,65 or over,103
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,EF,Total reporting,756
+62,70,Health care and social assistance,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+62,80,Health care and social assistance,Some other race,DZ,Under 25,10
+62,80,Health care and social assistance,Some other race,EA,25 to 34,255
+62,80,Health care and social assistance,Some other race,EB,35 to 44,2130
+62,80,Health care and social assistance,Some other race,EC,45 to 54,2949
+62,80,Health care and social assistance,Some other race,ED,55 to 64,1959
+62,80,Health care and social assistance,Some other race,EE,65 or over,764
+62,80,Health care and social assistance,Some other race,EF,Total reporting,8067
+62,80,Health care and social assistance,Some other race,EG,Item not reported,0
+71,1,"Arts, entertainment, and recreation",Female,DZ,Under 25,250
+71,1,"Arts, entertainment, and recreation",Female,EA,25 to 34,2666
+71,1,"Arts, entertainment, and recreation",Female,EB,35 to 44,5530
+71,1,"Arts, entertainment, and recreation",Female,EC,45 to 54,8791
+71,1,"Arts, entertainment, and recreation",Female,ED,55 to 64,6619
+71,1,"Arts, entertainment, and recreation",Female,EE,65 or over,5196
+71,1,"Arts, entertainment, and recreation",Female,EF,Total reporting,29051
+71,1,"Arts, entertainment, and recreation",Female,EG,Item not reported,108
+71,2,"Arts, entertainment, and recreation",Male,DZ,Under 25,317
+71,2,"Arts, entertainment, and recreation",Male,EA,25 to 34,5033
+71,2,"Arts, entertainment, and recreation",Male,EB,35 to 44,11845
+71,2,"Arts, entertainment, and recreation",Male,EC,45 to 54,17468
+71,2,"Arts, entertainment, and recreation",Male,ED,55 to 64,15380
+71,2,"Arts, entertainment, and recreation",Male,EE,65 or over,11720
+71,2,"Arts, entertainment, and recreation",Male,EF,Total reporting,61762
+71,2,"Arts, entertainment, and recreation",Male,EG,Item not reported,228
+71,20,"Arts, entertainment, and recreation",Hispanic,DZ,Under 25,67
+71,20,"Arts, entertainment, and recreation",Hispanic,EA,25 to 34,465
+71,20,"Arts, entertainment, and recreation",Hispanic,EB,35 to 44,1062
+71,20,"Arts, entertainment, and recreation",Hispanic,EC,45 to 54,570
+71,20,"Arts, entertainment, and recreation",Hispanic,ED,55 to 64,455
+71,20,"Arts, entertainment, and recreation",Hispanic,EE,65 or over,210
+71,20,"Arts, entertainment, and recreation",Hispanic,EF,Total reporting,2830
+71,20,"Arts, entertainment, and recreation",Hispanic,EG,Item not reported,0
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,DZ,Under 25,500
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,EA,25 to 34,7234
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,EB,35 to 44,16312
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,EC,45 to 54,25688
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,ED,55 to 64,21544
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,EE,65 or over,16705
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,EF,Total reporting,87983
+71,29,"Arts, entertainment, and recreation",Non-Hispanic,EG,Item not reported,335
+71,30,"Arts, entertainment, and recreation",White,DZ,Under 25,549
+71,30,"Arts, entertainment, and recreation",White,EA,25 to 34,7109
+71,30,"Arts, entertainment, and recreation",White,EB,35 to 44,15964
+71,30,"Arts, entertainment, and recreation",White,EC,45 to 54,24818
+71,30,"Arts, entertainment, and recreation",White,ED,55 to 64,21368
+71,30,"Arts, entertainment, and recreation",White,EE,65 or over,16391
+71,30,"Arts, entertainment, and recreation",White,EF,Total reporting,86198
+71,30,"Arts, entertainment, and recreation",White,EG,Item not reported,242
+71,40,"Arts, entertainment, and recreation",Black or African American,DZ,Under 25,0
+71,40,"Arts, entertainment, and recreation",Black or African American,EA,25 to 34,323
+71,40,"Arts, entertainment, and recreation",Black or African American,EB,35 to 44,307
+71,40,"Arts, entertainment, and recreation",Black or African American,EC,45 to 54,493
+71,40,"Arts, entertainment, and recreation",Black or African American,ED,55 to 64,240
+71,40,"Arts, entertainment, and recreation",Black or African American,EE,65 or over,141
+71,40,"Arts, entertainment, and recreation",Black or African American,EF,Total reporting,1504
+71,40,"Arts, entertainment, and recreation",Black or African American,EG,Item not reported,93
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,DZ,Under 25,25
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,EA,25 to 34,61
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,EB,35 to 44,51
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,EC,45 to 54,210
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,ED,55 to 64,58
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,EE,65 or over,77
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,EF,Total reporting,483
+71,50,"Arts, entertainment, and recreation",American Indian and Alaska Native,EG,Item not reported,0
+71,60,"Arts, entertainment, and recreation",Asian,DZ,Under 25,52
+71,60,"Arts, entertainment, and recreation",Asian,EA,25 to 34,290
+71,60,"Arts, entertainment, and recreation",Asian,EB,35 to 44,1001
+71,60,"Arts, entertainment, and recreation",Asian,EC,45 to 54,806
+71,60,"Arts, entertainment, and recreation",Asian,ED,55 to 64,311
+71,60,"Arts, entertainment, and recreation",Asian,EE,65 or over,305
+71,60,"Arts, entertainment, and recreation",Asian,EF,Total reporting,2766
+71,60,"Arts, entertainment, and recreation",Asian,EG,Item not reported,0
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,EA,25 to 34,0
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,EB,35 to 44,140
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,EC,45 to 54,55
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,ED,55 to 64,49
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,EE,65 or over,0
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,EF,Total reporting,244
+71,70,"Arts, entertainment, and recreation",Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+71,80,"Arts, entertainment, and recreation",Some other race,DZ,Under 25,48
+71,80,"Arts, entertainment, and recreation",Some other race,EA,25 to 34,136
+71,80,"Arts, entertainment, and recreation",Some other race,EB,35 to 44,229
+71,80,"Arts, entertainment, and recreation",Some other race,EC,45 to 54,200
+71,80,"Arts, entertainment, and recreation",Some other race,ED,55 to 64,61
+71,80,"Arts, entertainment, and recreation",Some other race,EE,65 or over,63
+71,80,"Arts, entertainment, and recreation",Some other race,EF,Total reporting,739
+71,80,"Arts, entertainment, and recreation",Some other race,EG,Item not reported,0
+72,1,Accommodation and food services,Female,DZ,Under 25,727
+72,1,Accommodation and food services,Female,EA,25 to 34,11865
+72,1,Accommodation and food services,Female,EB,35 to 44,30021
+72,1,Accommodation and food services,Female,EC,45 to 54,47359
+72,1,Accommodation and food services,Female,ED,55 to 64,44702
+72,1,Accommodation and food services,Female,EE,65 or over,21732
+72,1,Accommodation and food services,Female,EF,Total reporting,156406
+72,1,Accommodation and food services,Female,EG,Item not reported,459
+72,2,Accommodation and food services,Male,DZ,Under 25,1242
+72,2,Accommodation and food services,Male,EA,25 to 34,24952
+72,2,Accommodation and food services,Male,EB,35 to 44,65371
+72,2,Accommodation and food services,Male,EC,45 to 54,96161
+72,2,Accommodation and food services,Male,ED,55 to 64,84749
+72,2,Accommodation and food services,Male,EE,65 or over,49271
+72,2,Accommodation and food services,Male,EF,Total reporting,321746
+72,2,Accommodation and food services,Male,EG,Item not reported,1402
+72,20,Accommodation and food services,Hispanic,DZ,Under 25,238
+72,20,Accommodation and food services,Hispanic,EA,25 to 34,2996
+72,20,Accommodation and food services,Hispanic,EB,35 to 44,9777
+72,20,Accommodation and food services,Hispanic,EC,45 to 54,13156
+72,20,Accommodation and food services,Hispanic,ED,55 to 64,7229
+72,20,Accommodation and food services,Hispanic,EE,65 or over,2489
+72,20,Accommodation and food services,Hispanic,EF,Total reporting,35886
+72,20,Accommodation and food services,Hispanic,EG,Item not reported,220
+72,29,Accommodation and food services,Non-Hispanic,DZ,Under 25,1731
+72,29,Accommodation and food services,Non-Hispanic,EA,25 to 34,33821
+72,29,Accommodation and food services,Non-Hispanic,EB,35 to 44,85615
+72,29,Accommodation and food services,Non-Hispanic,EC,45 to 54,130364
+72,29,Accommodation and food services,Non-Hispanic,ED,55 to 64,122222
+72,29,Accommodation and food services,Non-Hispanic,EE,65 or over,68514
+72,29,Accommodation and food services,Non-Hispanic,EF,Total reporting,442266
+72,29,Accommodation and food services,Non-Hispanic,EG,Item not reported,1641
+72,30,Accommodation and food services,White,DZ,Under 25,1368
+72,30,Accommodation and food services,White,EA,25 to 34,22557
+72,30,Accommodation and food services,White,EB,35 to 44,59961
+72,30,Accommodation and food services,White,EC,45 to 54,100528
+72,30,Accommodation and food services,White,ED,55 to 64,99965
+72,30,Accommodation and food services,White,EE,65 or over,59426
+72,30,Accommodation and food services,White,EF,Total reporting,343804
+72,30,Accommodation and food services,White,EG,Item not reported,1382
+72,40,Accommodation and food services,Black or African American,DZ,Under 25,31
+72,40,Accommodation and food services,Black or African American,EA,25 to 34,405
+72,40,Accommodation and food services,Black or African American,EB,35 to 44,843
+72,40,Accommodation and food services,Black or African American,EC,45 to 54,1888
+72,40,Accommodation and food services,Black or African American,ED,55 to 64,1286
+72,40,Accommodation and food services,Black or African American,EE,65 or over,732
+72,40,Accommodation and food services,Black or African American,EF,Total reporting,5186
+72,40,Accommodation and food services,Black or African American,EG,Item not reported,0
+72,50,Accommodation and food services,American Indian and Alaska Native,DZ,Under 25,8
+72,50,Accommodation and food services,American Indian and Alaska Native,EA,25 to 34,134
+72,50,Accommodation and food services,American Indian and Alaska Native,EB,35 to 44,312
+72,50,Accommodation and food services,American Indian and Alaska Native,EC,45 to 54,491
+72,50,Accommodation and food services,American Indian and Alaska Native,ED,55 to 64,563
+72,50,Accommodation and food services,American Indian and Alaska Native,EE,65 or over,133
+72,50,Accommodation and food services,American Indian and Alaska Native,EF,Total reporting,1643
+72,50,Accommodation and food services,American Indian and Alaska Native,EG,Item not reported,0
+72,60,Accommodation and food services,Asian,DZ,Under 25,521
+72,60,Accommodation and food services,Asian,EA,25 to 34,12565
+72,60,Accommodation and food services,Asian,EB,35 to 44,31597
+72,60,Accommodation and food services,Asian,EC,45 to 54,36468
+72,60,Accommodation and food services,Asian,ED,55 to 64,26176
+72,60,Accommodation and food services,Asian,EE,65 or over,10212
+72,60,Accommodation and food services,Asian,EF,Total reporting,117537
+72,60,Accommodation and food services,Asian,EG,Item not reported,449
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,DZ,Under 25,1
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,EA,25 to 34,7
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,EB,35 to 44,136
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,EC,45 to 54,255
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,ED,55 to 64,130
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,EE,65 or over,60
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,EF,Total reporting,589
+72,70,Accommodation and food services,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+72,80,Accommodation and food services,Some other race,DZ,Under 25,43
+72,80,Accommodation and food services,Some other race,EA,25 to 34,1592
+72,80,Accommodation and food services,Some other race,EB,35 to 44,3853
+72,80,Accommodation and food services,Some other race,EC,45 to 54,5311
+72,80,Accommodation and food services,Some other race,ED,55 to 64,2429
+72,80,Accommodation and food services,Some other race,EE,65 or over,613
+72,80,Accommodation and food services,Some other race,EF,Total reporting,13841
+72,80,Accommodation and food services,Some other race,EG,Item not reported,62
+81(653),1,Other services (except public administration),Female,DZ,Under 25,661
+81(653),1,Other services (except public administration),Female,EA,25 to 34,9010
+81(653),1,Other services (except public administration),Female,EB,35 to 44,25939
+81(653),1,Other services (except public administration),Female,EC,45 to 54,39756
+81(653),1,Other services (except public administration),Female,ED,55 to 64,35584
+81(653),1,Other services (except public administration),Female,EE,65 or over,17080
+81(653),1,Other services (except public administration),Female,EF,Total reporting,128030
+81(653),1,Other services (except public administration),Female,EG,Item not reported,298
+81(653),2,Other services (except public administration),Male,DZ,Under 25,870
+81(653),2,Other services (except public administration),Male,EA,25 to 34,12461
+81(653),2,Other services (except public administration),Male,EB,35 to 44,35600
+81(653),2,Other services (except public administration),Male,EC,45 to 54,66143
+81(653),2,Other services (except public administration),Male,ED,55 to 64,70362
+81(653),2,Other services (except public administration),Male,EE,65 or over,37040
+81(653),2,Other services (except public administration),Male,EF,Total reporting,222475
+81(653),2,Other services (except public administration),Male,EG,Item not reported,334
+81(653),20,Other services (except public administration),Hispanic,DZ,Under 25,117
+81(653),20,Other services (except public administration),Hispanic,EA,25 to 34,1874
+81(653),20,Other services (except public administration),Hispanic,EB,35 to 44,5281
+81(653),20,Other services (except public administration),Hispanic,EC,45 to 54,7644
+81(653),20,Other services (except public administration),Hispanic,ED,55 to 64,4584
+81(653),20,Other services (except public administration),Hispanic,EE,65 or over,1831
+81(653),20,Other services (except public administration),Hispanic,EF,Total reporting,21332
+81(653),20,Other services (except public administration),Hispanic,EG,Item not reported,0
+81(653),29,Other services (except public administration),Non-Hispanic,DZ,Under 25,1413
+81(653),29,Other services (except public administration),Non-Hispanic,EA,25 to 34,19598
+81(653),29,Other services (except public administration),Non-Hispanic,EB,35 to 44,56257
+81(653),29,Other services (except public administration),Non-Hispanic,EC,45 to 54,98255
+81(653),29,Other services (except public administration),Non-Hispanic,ED,55 to 64,101362
+81(653),29,Other services (except public administration),Non-Hispanic,EE,65 or over,52289
+81(653),29,Other services (except public administration),Non-Hispanic,EF,Total reporting,329173
+81(653),29,Other services (except public administration),Non-Hispanic,EG,Item not reported,632
+81(653),30,Other services (except public administration),White,DZ,Under 25,1234
+81(653),30,Other services (except public administration),White,EA,25 to 34,16939
+81(653),30,Other services (except public administration),White,EB,35 to 44,48341
+81(653),30,Other services (except public administration),White,EC,45 to 54,87899
+81(653),30,Other services (except public administration),White,ED,55 to 64,90879
+81(653),30,Other services (except public administration),White,EE,65 or over,49101
+81(653),30,Other services (except public administration),White,EF,Total reporting,294392
+81(653),30,Other services (except public administration),White,EG,Item not reported,458
+81(653),40,Other services (except public administration),Black or African American,DZ,Under 25,48
+81(653),40,Other services (except public administration),Black or African American,EA,25 to 34,555
+81(653),40,Other services (except public administration),Black or African American,EB,35 to 44,1181
+81(653),40,Other services (except public administration),Black or African American,EC,45 to 54,1676
+81(653),40,Other services (except public administration),Black or African American,ED,55 to 64,1312
+81(653),40,Other services (except public administration),Black or African American,EE,65 or over,1346
+81(653),40,Other services (except public administration),Black or African American,EF,Total reporting,6118
+81(653),40,Other services (except public administration),Black or African American,EG,Item not reported,0
+81(653),50,Other services (except public administration),American Indian and Alaska Native,DZ,Under 25,34
+81(653),50,Other services (except public administration),American Indian and Alaska Native,EA,25 to 34,234
+81(653),50,Other services (except public administration),American Indian and Alaska Native,EB,35 to 44,375
+81(653),50,Other services (except public administration),American Indian and Alaska Native,EC,45 to 54,596
+81(653),50,Other services (except public administration),American Indian and Alaska Native,ED,55 to 64,641
+81(653),50,Other services (except public administration),American Indian and Alaska Native,EE,65 or over,132
+81(653),50,Other services (except public administration),American Indian and Alaska Native,EF,Total reporting,2011
+81(653),50,Other services (except public administration),American Indian and Alaska Native,EG,Item not reported,0
+81(653),60,Other services (except public administration),Asian,DZ,Under 25,233
+81(653),60,Other services (except public administration),Asian,EA,25 to 34,3461
+81(653),60,Other services (except public administration),Asian,EB,35 to 44,10544
+81(653),60,Other services (except public administration),Asian,EC,45 to 54,14412
+81(653),60,Other services (except public administration),Asian,ED,55 to 64,12008
+81(653),60,Other services (except public administration),Asian,EE,65 or over,3187
+81(653),60,Other services (except public administration),Asian,EF,Total reporting,43846
+81(653),60,Other services (except public administration),Asian,EG,Item not reported,175
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,DZ,Under 25,1
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,EA,25 to 34,154
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,EB,35 to 44,97
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,EC,45 to 54,102
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,ED,55 to 64,41
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,EE,65 or over,0
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,EF,Total reporting,394
+81(653),70,Other services (except public administration),Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+81(653),80,Other services (except public administration),Some other race,DZ,Under 25,17
+81(653),80,Other services (except public administration),Some other race,EA,25 to 34,732
+81(653),80,Other services (except public administration),Some other race,EB,35 to 44,1770
+81(653),80,Other services (except public administration),Some other race,EC,45 to 54,2272
+81(653),80,Other services (except public administration),Some other race,ED,55 to 64,1755
+81(653),80,Other services (except public administration),Some other race,EE,65 or over,500
+81(653),80,Other services (except public administration),Some other race,EF,Total reporting,7045
+81(653),80,Other services (except public administration),Some other race,EG,Item not reported,0
+99,1,Industries not classified,Female,DZ,Under 25,72
+99,1,Industries not classified,Female,EA,25 to 34,758
+99,1,Industries not classified,Female,EB,35 to 44,1488
+99,1,Industries not classified,Female,EC,45 to 54,1588
+99,1,Industries not classified,Female,ED,55 to 64,2739
+99,1,Industries not classified,Female,EE,65 or over,2820
+99,1,Industries not classified,Female,EF,Total reporting,9464
+99,1,Industries not classified,Female,EG,Item not reported,17
+99,2,Industries not classified,Male,DZ,Under 25,79
+99,2,Industries not classified,Male,EA,25 to 34,611
+99,2,Industries not classified,Male,EB,35 to 44,1865
+99,2,Industries not classified,Male,EC,45 to 54,2369
+99,2,Industries not classified,Male,ED,55 to 64,4564
+99,2,Industries not classified,Male,EE,65 or over,4088
+99,2,Industries not classified,Male,EF,Total reporting,13576
+99,2,Industries not classified,Male,EG,Item not reported,17
+99,20,Industries not classified,Hispanic,DZ,Under 25,24
+99,20,Industries not classified,Hispanic,EA,25 to 34,23
+99,20,Industries not classified,Hispanic,EB,35 to 44,194
+99,20,Industries not classified,Hispanic,EC,45 to 54,33
+99,20,Industries not classified,Hispanic,ED,55 to 64,109
+99,20,Industries not classified,Hispanic,EE,65 or over,42
+99,20,Industries not classified,Hispanic,EF,Total reporting,425
+99,20,Industries not classified,Hispanic,EG,Item not reported,0
+99,29,Industries not classified,Non-Hispanic,DZ,Under 25,127
+99,29,Industries not classified,Non-Hispanic,EA,25 to 34,1346
+99,29,Industries not classified,Non-Hispanic,EB,35 to 44,3159
+99,29,Industries not classified,Non-Hispanic,EC,45 to 54,3924
+99,29,Industries not classified,Non-Hispanic,ED,55 to 64,7194
+99,29,Industries not classified,Non-Hispanic,EE,65 or over,6865
+99,29,Industries not classified,Non-Hispanic,EF,Total reporting,22615
+99,29,Industries not classified,Non-Hispanic,EG,Item not reported,34
+99,30,Industries not classified,White,DZ,Under 25,96
+99,30,Industries not classified,White,EA,25 to 34,1242
+99,30,Industries not classified,White,EB,35 to 44,2875
+99,30,Industries not classified,White,EC,45 to 54,3905
+99,30,Industries not classified,White,ED,55 to 64,7217
+99,30,Industries not classified,White,EE,65 or over,6765
+99,30,Industries not classified,White,EF,Total reporting,22099
+99,30,Industries not classified,White,EG,Item not reported,34
+99,40,Industries not classified,Black or African American,DZ,Under 25,55
+99,40,Industries not classified,Black or African American,EA,25 to 34,55
+99,40,Industries not classified,Black or African American,EB,35 to 44,87
+99,40,Industries not classified,Black or African American,EC,45 to 54,0
+99,40,Industries not classified,Black or African American,ED,55 to 64,49
+99,40,Industries not classified,Black or African American,EE,65 or over,88
+99,40,Industries not classified,Black or African American,EF,Total reporting,333
+99,40,Industries not classified,Black or African American,EG,Item not reported,0
+99,50,Industries not classified,American Indian and Alaska Native,DZ,Under 25,0
+99,50,Industries not classified,American Indian and Alaska Native,EA,25 to 34,0
+99,50,Industries not classified,American Indian and Alaska Native,EB,35 to 44,33
+99,50,Industries not classified,American Indian and Alaska Native,EC,45 to 54,0
+99,50,Industries not classified,American Indian and Alaska Native,ED,55 to 64,20
+99,50,Industries not classified,American Indian and Alaska Native,EE,65 or over,52
+99,50,Industries not classified,American Indian and Alaska Native,EF,Total reporting,104
+99,50,Industries not classified,American Indian and Alaska Native,EG,Item not reported,0
+99,60,Industries not classified,Asian,DZ,Under 25,0
+99,60,Industries not classified,Asian,EA,25 to 34,96
+99,60,Industries not classified,Asian,EB,35 to 44,381
+99,60,Industries not classified,Asian,EC,45 to 54,41
+99,60,Industries not classified,Asian,ED,55 to 64,13
+99,60,Industries not classified,Asian,EE,65 or over,72
+99,60,Industries not classified,Asian,EF,Total reporting,604
+99,60,Industries not classified,Asian,EG,Item not reported,0
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,DZ,Under 25,0
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,EA,25 to 34,1
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,EB,35 to 44,0
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,EC,45 to 54,0
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,ED,55 to 64,0
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,EE,65 or over,0
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,EF,Total reporting,1
+99,70,Industries not classified,Native Hawaiian and Other Pacific Islander,EG,Item not reported,0
+99,80,Industries not classified,Some other race,DZ,Under 25,0
+99,80,Industries not classified,Some other race,EA,25 to 34,0
+99,80,Industries not classified,Some other race,EB,35 to 44,79
+99,80,Industries not classified,Some other race,EC,45 to 54,11
+99,80,Industries not classified,Some other race,ED,55 to 64,7
+99,80,Industries not classified,Some other race,EE,65 or over,0
+99,80,Industries not classified,Some other race,EF,Total reporting,97
+99,80,Industries not classified,Some other race,EG,Item not reported,0
