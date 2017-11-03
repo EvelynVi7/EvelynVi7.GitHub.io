@@ -82,6 +82,12 @@ function setup() {
   strokeWeight(1);
   stroke(230);
   ellipse(0, 0, 350, 350);
+  fill(255);
+  textSize(30);
+  textAlign(CENTER,CENTER)
+  text("BUSINESS",0,-40);
+  text("OWNERS",0,0);
+  text("BY AGE",0,40);
   
   //print(noSubsec[3]);
   //print(aUnit);
