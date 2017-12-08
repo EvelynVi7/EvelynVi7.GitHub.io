@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>An Atlas of Monuments in DC</title>
+  <style>
+    body {
+      background-color: #dfdfde;
+      font-size: 20px;
+      padding: 30px;
+      margin: 0px;
+      font-family: Times, serif;
+    }
+    
+    h1 {
+      font-family: Times, serif;
+    }
+    
+    h2 {
+      font-family: Times, serif;
+    }
+    
+    h3 {
+      font-family: Times, serif;
+      font-size: 20px;
+    }
+    
+    h1,
+    h2,
+    h3 {
+      color: #444;
+    }
+
+    span {
+      font-style: italic;
+    }
+    
+    .highlight {
+      background-color: #999999;
+    }
+    
+    #intro {
+      margin: 50px 50px;
+    }
+    
+    #graph {
+      margin: 0px 0px;
+    }
+    
+    #myDiv {
+      margin: 100px 100px;
+    }
+    
+    #unique {
+      font-family: sans-serif;
+      text-transform: uppercase;
+      font-style: normal;
+      font-size: 24px;
+    }
+    
+    a {
+      text-decoration: none;
+      color: red;
+    }
+    
+    a:hover {
+      background-color: red;
+      color: black;
+    }
+    
+    #monumentGraph {}
+  </style>
+  <script src="libraries/p5.js" type="text/javascript"></script>
+
+  <script src="libraries/p5.dom.js" type="text/javascript"></script>
+  <script src="libraries/p5.sound.js" type="text/javascript"></script>
+
+  <script src="sketch.js" type="text/javascript"></script>
+
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
+    
+    canvas {
+      vertical-align: top;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id="intro">
+    <h1>An Atlas of Monuments in Washington DC</h1>
+    <h3>Survey on typology, material, size, topic of monument.</h3>
+
+    <br/>
+    <br/>
+
+    <div id="graph">
+      <br/>
+      <br/>
+      <div id="monumentGraph"></div>
+    </div>
+
+</body>
+
+</html>
